@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tour Guide Prediction</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+
+        /* Background slideshow container */
+        .slideshow {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+            animation: fade 28s infinite;
+        }
+
+        /* Individual images in the slideshow */
+        .slideshow img {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            opacity: 0;
+            animation: slide 28s infinite;
+        }
+
+        .slideshow img:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        .slideshow img:nth-child(2) {
+            animation-delay: 4s;
+        }
+
+        .slideshow img:nth-child(3) {
+            animation-delay: 8s;
+        }
+
+        .slideshow img:nth-child(4) {
+            animation-delay: 12s;
+        }
+
+        .slideshow img:nth-child(5) {
+            animation-delay: 16s;
+        }
+
+        .slideshow img:nth-child(6) {
+            animation-delay: 20s;
+        }
+
+        .slideshow img:nth-child(7) {
+            animation-delay: 24s;
+        }
+        .slideshow img:nth-child(8) {
+            animation-delay: 28s;
+        }
+
+        .slideshow img:nth-child(9) {
+            animation-delay: 32s;
+        }
+
+        .slideshow img:nth-child(10) {
+            animation-delay: 36s;
+        }
+
+        .slideshow img:nth-child(11) {
+            animation-delay: 40s;
+        }
+
+        .slideshow img:nth-child(12) {
+            animation-delay: 44s;
+        }
+
+        .slideshow img:nth-child(13) {
+            animation-delay: 48s;
+        }
+
+        .slideshow img:nth-child(14) {
+            animation-delay: 52s;
+        }
+
+        .slideshow img:nth-child(15) {
+            animation-delay: 56s;
+        }
+
+        .slideshow img:nth-child(16) {
+            animation-delay: 60s;
+        }
+
+        .slideshow img:nth-child(17) {
+            animation-delay: 64s;
+        }
+
+        .slideshow img:nth-child(18) {
+            animation-delay: 68s;
+        }
+
+        .slideshow img:nth-child(19) {
+            animation-delay: 72s;
+        }
+
+        @keyframes slide {
+            0%, 20% { opacity: 1; }
+            25%, 100% { opacity: 0; }
+        }
+
+ /* Container for the form */
+.container {
+    background: rgba(91, 91, 91, 0.444); /* Dark overlay effect */
+    border-radius: 15px;
+    padding: 20px; /* Reduced padding for a shorter container */
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+    width: 90%;
+    max-width: 400px; /* Reduced max-width for a shorter appearance */
+    color: #fff;
+    animation: fadeIn 1.5s ease-in-out;
+    position: relative;
+    z-index: 1;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-50px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px; /* Reduced spacing */
+    font-size: 1.8rem; /* Slightly smaller font */
+}
+
+/* Form styling */
+form label {
+    display: block;
+    margin: 12px 0 5px; /* Reduced spacing for compactness */
+    font-weight: bold;
+}
+
+form select, form input {
+    width: 100%;
+    padding: 8px; /* Reduced padding */
+    margin-bottom: 8px; /* Reduced spacing */
+    border: none;
+    border-radius: 5px;
+    background: rgba(255, 255, 255, 0.8);
+    color: #333;
+    font-size: 0.9rem; /* Slightly smaller font */
+}
+
+form select:focus, form input:focus {
+    outline: none;
+    box-shadow: 0 0 5px #FFD700;
+}
+
+/* Button styling */
+button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background: linear-gradient(45deg, #1E90FF, #87CEEB, #00BFFF, #4682B4, #5F9EA0);
+    background-size: 400% 400%; /* Allows smooth gradient animation */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+    cursor: pointer;
+    animation: bluish-gradient-animation 6s infinite; /* Gradient animation */
+    transition: transform 0.2s;
+}
+
+/* Hover effect */
+button:hover {
+    transform: translateY(-3px);
+}
+
+/* Active effect */
+button:active {
+    transform: translateY(0);
+}
+
+/* Gradient animation */
+@keyframes bluish-gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* Gradient animation */
+@keyframes gradient-animation {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+
+    </style>
+</head>
+<body>
+<!-- Background Slideshow -->
+<div class="slideshow">
+    <img src="{{ url_for('static', filename='images/a.jpg') }}" alt="Image 1">
+<img src="{{ url_for('static', filename='images/b.jpg') }}" alt="Image 2">
+<img src="{{ url_for('static', filename='images/c.jpg') }}" alt="Image 3">
+<img src="{{ url_for('static', filename='images/d.jpg') }}" alt="Image 4">
+<img src="{{ url_for('static', filename='images/e.jpg') }}" alt="Image 5">
+<img src="{{ url_for('static', filename='images/f.jpg') }}" alt="Image 6">
+<img src="{{ url_for('static', filename='images/g.jpg') }}" alt="Image 7">
+<img src="{{ url_for('static', filename='images/h.jpg') }}" alt="Image 8">
+<img src="{{ url_for('static', filename='images/i.jpg') }}" alt="Image 9">
+<img src="{{ url_for('static', filename='images/j.jpg') }}" alt="Image 10">
+<img src="{{ url_for('static', filename='images/k.jpg') }}" alt="Image 11">
+<img src="{{ url_for('static', filename='images/l.jpg') }}" alt="Image 12">
+<img src="{{ url_for('static', filename='images/m.jpg') }}" alt="Image 13">
+<img src="{{ url_for('static', filename='images/n.jpg') }}" alt="Image 14">
+<img src="{{ url_for('static', filename='images/o.jpg') }}" alt="Image 15">
+<img src="{{ url_for('static', filename='images/p.jpg') }}" alt="Image 16">
+<img src="{{ url_for('static', filename='images/q.jpg') }}" alt="Image 17">
+<img src="{{ url_for('static', filename='images/r.jpg') }}" alt="Image 18">
+<img src="{{ url_for('static', filename='images/s.jpg') }}" alt="Image 19">
+</div>
+
+
+    <div class="container">
+        <h1>Plan Your Next Tour</h1>
+        <form method="post" action="/predict">
+            <label for="From">From:</label>
+            <select name="From" required>
+                <option value="">Select your starting point</option>
+                <option value="Dhaka">Dhaka</option>
+                <option value="Cumilla">Cumilla</option>
+                <option value="Khulna">Khulna</option>
+                <option value="Chittagong">Chittagong</option>
+                <option value="Sylhet">Sylhet</option>
+                <option value="Rangpur">Rangpur</option>
+                <option value="Rajshahi">Rajshahi</option>
+                <option value="Barisal">Barisal</option>
+                <option value="Mymensingh">Mymensingh</option>
+            </select>
+
+            <label for="Budget">Budget:</label>
+            <select name="Budget" required>
+                <option value="">Select your budget</option>
+                <option value="Low">Low (0 to 2000)</option>
+                <option value="Medium">Medium (2001 to 6000)</option>
+                <option value="High">High (Above 6000)</option>
+            </select>
+
+            <label for="Type">Type:</label>
+            <select name="Type" required>
+                <option value="">Select the type of place</option>
+                <option value="Sea Beach">Sea Beach</option>
+                <option value="Historical Palace">Historical Palace</option>
+                <option value="Park">Park</option>
+                <option value="Picnic Spot">Picnic Spot</option>
+                <option value="Forest">Forest</option>
+                <option value="Island">Island</option>
+                <option value="Hills">Hills</option>
+            </select>
+
+            <label for="Distance (km)">Distance (km):</label>
+            <input type="text" name="Distance (km)" placeholder="Enter distance in km" required>
+
+            <label for="Duration (Days)">Duration (Days):</label>
+            <input type="text" name="Duration (Days)" placeholder="Enter duration in days" required>
+
+            <label for="Cost (BDT)">Cost (BDT):</label>
+            <input type="text" name="Cost (BDT)" placeholder="Enter estimated cost" required>
+
+            <button type="submit">Predict Destinations</button>
+        </form>
+    </div>
+</body>
+</html>
