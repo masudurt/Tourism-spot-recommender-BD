@@ -1,0 +1,1056 @@
+From,Destination,City,Type,Distance (km),Duration (Days),Budget,Cost (BDT)
+Chittagong,Kuakata Beach,Patuakhali,Sea Beach,345,3,Medium,18808
+Rangpur,Dinajpur Rajbari,Dinajpur,Historical Palace,84,1,Low,1506
+Cumilla,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,687,1,Medium,2246
+Mymensingh,Ramsagar National Park,Dinajpur,Park,335,1,Medium,1695
+Dhaka,Bangladesh National Meusium,Dhaka,Historical Palace,12,1,Low,1201
+Dhaka,Jaflong,Sylhet,Picnic Spot,295,1,Medium,2278
+Barisal,Baniachong Raj Bari,Habiganj,Historical Palace,338,1,Medium,2052
+Khulna,Zaflong Tea Garden,Sylhet,Picnic Spot,496,1,Medium,2526
+Sylhet,Zinda Park,Narayanganj,Picnic Spot,225,1,Medium,2823
+Rangpur,Mohamaya Eco Park,Chittagong,Picnic Spot,483,1,Medium,2690
+Cumilla,Munshibari Zamindar Bari,Cumilla,Historical Palace,377,1,Medium,2971
+Mymensingh,Kantaji Temple,Dinajpur,Historical Palace,347,1,Low,2297
+Dhaka,Ratargul Swamp Forest,Sylhet,Forest,257,2,Medium,2747
+Rajshahi,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,625,1,Medium,2367
+Mymensingh,Sundarbans,Satkhira,Forest,410,1,Medium,4364
+Rajshahi,Bangabandhu Bridge,Tangail,Historical Palace,567,1,Medium,2178
+Chittagong,Sreemangal,Moulvibazar,Picnic Spot,301,1,Medium,1651
+Chittagong,Aparajeyo Bangla,Dhaka,Historical Palace,245,1,Medium,2063
+Sylhet,Tilagor Eco Park,Sylhet,Park,8,1,Low,360
+Dhaka,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,314,1,Medium,1584
+Sylhet,Tilagor Eco Park,Sylhet,Park,8,1,Low,883
+Rangpur,Birishiri,Netrokona,Picnic Spot,346,1,Medium,2955
+Chittagong,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,129,1,Low,1061
+Cumilla,Lawachara National Park,Sylhet,Park,159,1,Low,1921
+Cumilla,Nilachal,Bandarban,Hills,220,3,High,6312
+Barisal,Fatra's Char,Patuakhali,Island,113,4,Medium,9186
+Dhaka,Chandranath Hill,Chittagong,Hills,218,4,High,11113
+Rajshahi,Jatiyo Sriti Shoudho,Savar,Historical Palace,229,1,Low,2018
+Sylhet,Chandradinga,Netrokona,Hills,169,2,High,2968
+Mymensingh,Patenga Beach,Chittagong,Sea Beach,373,6,High,8241
+Barisal,Shalban Vihara,Cumilla,Historical Palace,175,1,Low,1319
+Rajshahi,Sajek Valley,Rangamati,Hills,579,6,Medium,10457
+Mymensingh,Mawa Ghat,Munshiganj,Picnic Spot,164,1,Low,1064
+Cumilla,Himchari National Park,Cox's Bazar,Park,307,1,Low,2156
+Cumilla,Zaflong Tea Garden,Sylhet,Picnic Spot,267,1,Low,1652
+Barisal,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,369,1,Medium,2188
+Khulna,Mujibnagar Eco Park,Meherpur,Park,164,1,Low,1283
+Chittagong,Mohera Zamindar Bari,Tangail,Historical Palace,341,1,Medium,1937
+Chittagong,Panchagarh Tea Estate,Panchagarh,Picnic Spot,697,1,Medium,2252
+Khulna,Kaptai Lake,Rangamati,Picnic Spot,404,1,Medium,2848
+Cumilla,Sreepur Zamindar Bari,Gazipur,Historical Palace,27,1,Low,1485
+Sylhet,Ghoraghat Fort,Dinajpur,Historical Palace,442,1,Low,2818
+Rajshahi,Nafakhum Waterfall,Bandarban,Waterfall,499,3,Medium,2189
+Rangpur,Paharpur Buddhist Monastery,Naogaon,Historical Palace,112,1,Low,1977
+Dhaka,Aparajeyo Bangla,Dhaka,Historical Palace,12,1,Low,1560
+Barisal,Satchari National Park,Habiganj,Park,301,1,Medium,1732
+Dhaka,Nilachal,Bandarban,Hills,323,5,High,7319
+Chittagong,Jatiyo Sriti Shoudho,Savar,Historical Palace,278,1,Medium,1668
+Khulna,Teknaf Beach,Teknaf,Sea Beach,558,7,Medium,13250
+Khulna,Dhanmondi Lake,Dhaka,Park,209,1,Low,2552
+Rajshahi,Shahporan Dargah,Sylhet,Historical Palace,456,1,Low,1977
+Mymensingh,Takerghat Limestone,Sunamganj,Picnic Spot,180,1,Low,1199
+Cumilla,Madhabkunda Waterfall,Moulvibazar,Waterfall,230,1,Low,3404
+Mymensingh,Aparajeyo Bangla,Dhaka,Historical Palace,121,1,Low,1075
+Sylhet,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,500,5,Medium,12120
+Sylhet,Malnichhara Tea Garden,Sylhet,Picnic Spot,4.3,1,Low,986
+Sylhet,Amiakhum Waterfall,Bandarban,Waterfall,10,1,Low,1405
+Rangpur,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,253,1,Low,2584
+Barisal,Bichanakandi,Sylhet,Picnic Spot,423,1,Medium,1504
+Khulna,Shangu River,Bandarban,Picnic Spot,483,1,Medium,2235
+Dhaka,Birishiri,Netrokona,Picnic Spot,166,1,Low,1818
+Khulna,Chor Kukri Mukri,Bhola,Island,220,3,High,18015
+Chittagong,Mujibnagar Memorial,Meherpur,Historical Palace,497,1,Medium,2640
+Dhaka,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,40,1,Low,806
+Rajshahi,Mohamaya Eco Park,Chittagong,Picnic Spot,436,1,Medium,2740
+Cumilla,Jaflong,Sylhet,Picnic Spot,269,1,Low,2208
+Chittagong,Chandranath Hill,Chittagong,Hills,73,1,High,2342
+Cumilla,Teliapara Tea Garden,Habiganj,Picnic Spot,295,1,Medium,2879
+Cumilla,Khoiyachora Jhorna,Chittagong,Waterfall,100,1,Medium,1518
+Rajshahi,Alutila Cave,Khagrachari,Hills,509,4,Medium,6387
+Rajshahi,Shitolaksha Waterfront Resort,Narayanganj,Picnic Spot,254,1,Medium,1794
+Sylhet,Jadukata River,Sunamganj,Picnic Spot,46,1,Low,492
+Cumilla,Keokradong,Bandarban,Hills,283,5,Medium,9697
+Rajshahi,Keokradong,Bandarban,Hills,629,4,Medium,9045
+Rangpur,Ahsan Monjil,Dhaka,Historical Palace,307,1,Medium,2468
+Mymensingh,Shangu River,Bandarban,Picnic Spot,502,1,Low,2684
+Rajshahi,Jaflong,Sylhet,Picnic Spot,508,1,Medium,2009
+Dhaka,Panam City,Narayanganj,Historical Palace,40,1,Low,1379
+Dhaka,Buddha Dhatu Jadi,Bandarban,Historical Palace,331,1,Low,2169
+Cumilla,Jadukata River,Sunamganj,Picnic Spot,255,1,Medium,2697
+Chittagong,Fatra's Char,Patuakhali,Island,339,7,High,6166
+Cumilla,Boga Lake,Bandarban,Hills,274,6,High,6201
+Mymensingh,Pachgaon Waterfall,Netrokona,Hills,83,1,Medium,4539
+Rajshahi,Baliadi  Zamindar Bari,Gazipur,Historical Palace,205,1,Medium,2993
+Cumilla,Jadukata River,Sunamganj,Picnic Spot,255,1,Low,1547
+Chittagong,Tanguar Haor,Sunamganj,Picnic Spot,436,1,Low,2628
+Rajshahi,Bangabandhu Safari Park,Gazipur,Park,246,1,Medium,1785
+Rajshahi,Nikli Haor,Kishoreganj,Picnic Spot,311,1,Low,2881
+Cumilla,Panchagarh Tea Estate,Panchagarh,Picnic Spot,548,1,Medium,1650
+Rajshahi,Dhanmondi Lake,Dhaka,Park,254,1,Medium,2166
+Chittagong,Dhakeshwari Temple,Dhaka,Historical Palace,246,1,Low,1695
+Chittagong,Nafakhum Waterfall,Bandarban,Waterfall,147,2,Low,4957
+Rangpur,Suagazi Zamindar Bari,Cumilla,Historical Palace,412,1,Medium,2017
+Rajshahi,Baliadi  Zamindar Bari,Gazipur,Historical Palace,205,1,Medium,1895
+Cumilla,Ahsan Monjil,Dhaka,Historical Palace,96,1,Low,1704
+Rangpur,Bangladesh National Meusium,Dhaka,Historical Palace,305,1,Low,1579
+Khulna,Nilachal,Bandarban,Hills,414,3,High,11234
+Khulna,Chandraghona Paper Mills,Rangamati,Historical Palace,384,1,Medium,1732
+Cumilla,Dhakeshwari Temple,Dhaka,Historical Palace,97,1,Low,1671
+Barisal,Jatiyo Sriti Shoudho,Savar,Historical Palace,201,1,Low,1883
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,287,1,Medium,2557
+Khulna,Bangladesh National Meusium,Dhaka,Historical Palace,207,1,Low,1605
+Rangpur,Dhakeshwari Temple,Dhaka,Historical Palace,306,1,Low,2858
+Mymensingh,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,499,1,Medium,2383
+Khulna,Aparajeyo Bangla,Dhaka,Historical Palace,207,1,Low,1623
+Rajshahi,Balihar Rajbari,Naogaon,Historical Palace,63,1,Low,738
+Barisal,Saint Martin's Island,Cox's Bazar,Island,467,4,Medium,10183
+Barisal,Sundarbans,Satkhira,Forest,120,2,Medium,3852
+Rangpur,Chandranath Temple,Chittagong,Historical Palace,512,1,Medium,2610
+Mymensingh,Tanguar Haor,Sunamganj,Picnic Spot,172,1,Low,1912
+Cumilla,Kuakata Beach,Barisal,Sea Beach,374,6,High,9685
+Cumilla,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,267,1,Medium,1535
+Khulna,Bhawal National Park,Gazipur,Park,247,1,Low,1979
+Rangpur,Satchari National Park,Habiganj,Park,398,1,Medium,2265
+Barisal,Rangamati Hanging Bridge,Rangamati,Hills,300,4,High,8830
+Rajshahi,Bangabandhu Bridge,Tangail,Historical Palace,567,1,Medium,2732
+Sylhet,Bangladesh National Meusium,Dhaka,Historical Palace,241,1,Medium,2024
+Mymensingh,Alutila Cave,Khagrachari,Hills,379,6,Medium,10951
+Chittagong,Maheshkhali Island,Cox's Bazar,Island,103,7,High,6765
+Mymensingh,Shahporan Dargah,Sylhet,Historical Palace,204,1,Medium,2324
+Cumilla,Mawa Ghat,Munshiganj,Picnic Spot,129,1,Low,1103
+Cumilla,Fatra's Char,Patuakhali,Island,272,7,High,15404
+Sylhet,Shoshi Lodge,Mymensingh,Historical Palace,281,1,Low,2121
+Sylhet,Nikli Haor,Kishoreganj,Picnic Spot,197,1,Low,1297
+Khulna,Satchari National Park,Habiganj,Park,339,1,Medium,1932
+Rangpur,Mohera Jamindar Bari,Tangail,Historical Palace,230,1,Medium,2370
+Mymensingh,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,146,1,Low,1928
+Barisal,Dulahazara Safari Park,Cox's Bazar,Park,346,1,Low,1786
+Sylhet,Chandradinga,Netrokona,Hills,169,2,High,4409
+Khulna,Tanguar Haor,Sunamganj,Picnic Spot,498,1,Medium,1634
+Rangpur,Dulahazara Safari Park,Cox's Bazar,Park,651,1,Low,2547
+Rajshahi,Dhakeshwari Temple,Dhaka,Historical Palace,257,1,Low,2566
+Dhaka,Buddha Dhatu Jadi,Bandarban,Historical Palace,331,1,Low,2366
+Dhaka,Shahporan Dargah,Sylhet,Historical Palace,242,1,Medium,1875
+Dhaka,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,40,1,Low,1948
+Sylhet,Ratargul Swamp Forest,Sylhet,Forest,53,1,Low,1438
+Chittagong,Jadukata River,Sunamganj,Picnic Spot,406,1,Medium,1636
+Khulna,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,388,1,Low,2418
+Sylhet,Kantaji Temple,Dinajpur,Historical Palace,552,1,Low,1808
+Mymensingh,Himchari National Park,Cox's Bazar,Park,520,1,Medium,1767
+Rajshahi,Himchari National Park,Cox's Bazar,Park,653,1,Low,1856
+Khulna,Shahporan Dargah,Sylhet,Historical Palace,445,1,Medium,2467
+Rajshahi,Chandranath Hill,Chittagong,Hills,461,4,High,6580
+Dhaka,Shahjalal Dargah,Sylhet,Historical Palace,236,1,Low,1960
+Dhaka,Nikli Haor,Kishoreganj,Picnic Spot,107,1,Low,1510
+Sylhet,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,410,1,Medium,2909
+Chittagong,Nikli Haor,Kishoreganj,Picnic Spot,277,1,Medium,2572
+Rangpur,Nikli Haor,Kishoreganj,Picnic Spot,361,1,Medium,2931
+Rajshahi,Cholon Beel,Sirajganj,Picnic Spot,84,1,Low,1451
+Khulna,Meghla Tourist Complex,Bandarban,Hills,414,3,High,5813
+Khulna,Amiakhum Waterfall,Bandarban,Waterfall,477,2,Medium,1904
+Khulna,Mujibnagar Memorial,Meherpur,Historical Palace,157,1,Low,1678
+Barisal,Tindur Waterfall,Bandarban,Waterfall,365,3,Low,3802
+Rangpur,Bangabandhu Safari Park,Gazipur,Park,295,1,Medium,2083
+Barisal,Keokradong,Bandarban,Hills,374,4,Medium,6979
+Mymensingh,Tanguar Haor,Sunamganj,Picnic Spot,172,1,Low,1555
+Rajshahi,Himchari National Park,Cox's Bazar,Park,653,1,Medium,2451
+Rajshahi,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,279,1,Medium,2569
+Chittagong,Foy's Lake,Chittagong,Park,10,1,Low,1035
+Rajshahi,Jaflong,Sylhet,Picnic Spot,508,1,Medium,2716
+Cumilla,Cholon Beel,Sirajganj,Picnic Spot,275,1,Medium,1933
+Dhaka,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,388,1,Low,2693
+Chittagong,Dulahazara Safari Park,Cox's Bazar,Park,98,1,Low,1103
+Cumilla,Jadukata River,Sunamganj,Picnic Spot,255,1,Medium,2471
+Cumilla,Shaheed Suhrawardy Udyan,Dhaka,Park,97,1,Low,1498
+Barisal,Bangabandhu Bridge,Tangail,Historical Palace,273,1,Low,2964
+Barisal,Mujibnagar Memorial,Meherpur,Historical Palace,266,1,Low,2516
+Barisal,Jatiyo Sriti Shoudho,Savar,Historical Palace,201,1,Low,1601
+Dhaka,Gunahar Saheb Bari,Naogaon,Historical Palace,219,1,Low,2983
+Rangpur,Alutila Cave,Khagrachari,Hills,558,4,High,11672
+Cumilla,Alutila Cave,Khagrachari,Hills,163,2,Medium,4071
+Dhaka,Ahsan Monjil,Dhaka,Historical Palace,15,1,Low,1873
+Cumilla,Mujibnagar Smriti Complex,Meherpur,Historical Palace,350,1,Medium,2256
+Dhaka,Panchagarh Tea Estate,Panchagarh,Picnic Spot,408,1,Medium,2188
+Barisal,Shoshi Lodge,Mymensingh,Historical Palace,289,1,Low,1642
+Sylhet,Panchagarh Tea Estate,Panchagarh,Picnic Spot,646,1,Medium,2747
+Mymensingh,Suagazi Zamindar Bari,Cumilla,Historical Palace,117,1,Low,1583
+Mymensingh,Maheshkhali Island,Cox's Bazar,Island,466,4,High,14135
+Sylhet,Shahporan Dargah,Sylhet,Historical Palace,10,1,Low,534
+Cumilla,Chalkmoshar Zamindar Bari,Naogaon,Historical Palace,364,1,Low,2189
+Rangpur,Suagazi Zamindar Bari,Cumilla,Historical Palace,412,1,Medium,2732
+Cumilla,Chhatak Haor,Sunamganj,Picnic Spot,61,1,Low,934
+Rangpur,Chor Kukri Mukri,Bhola,Island,607,6,Medium,8251
+Cumilla,Dhanmondi Lake,Dhaka,Park,562,1,Low,2587
+Mymensingh,Chandranath Hill,Chittagong,Hills,325,4,Medium,8572
+Chittagong,Chimbuk View Point,Bandarban,Hills,88,2,High,3757
+Rajshahi,Mawa Ghat,Munshiganj,Picnic Spot,270,1,Medium,2258
+Rajshahi,Shoshi Lodge,Mymensingh,Historical Palace,236,1,Low,1627
+Cumilla,Lalon Shah Mazar,Kushtia,Historical Palace,117,1,Low,1826
+Chittagong,Meghla Tourist Complex,Bandarban,Hills,70,2,Medium,4640
+Dhaka,Teliapara Tea Garden,Habiganj,Picnic Spot,130,1,Low,1888
+Barisal,Patenga Beach,Chittagong,Sea Beach,250,5,Medium,19041
+Barisal,Dhanmondi Lake,Dhaka,Park,175,1,Low,1183
+Rajshahi,Ramsagar National Park,Dinajpur,Park,201,1,Medium,1577
+Cumilla,Boga Lake,Bandarban,Hills,274,4,Medium,6264
+Khulna,Tanguar Haor,Sunamganj,Picnic Spot,498,1,Low,2394
+Rajshahi,Khoiyachora Jhorna,Chittagong,Waterfall,446,2,Medium,4670
+Chittagong,Bhawal National Park,Gazipur,Park,286,1,Low,2997
+Rangpur,Sajek Valley,Rangamati,Hills,629,6,Medium,6329
+Cumilla,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,687,1,Medium,1685
+Dhaka,Inani Beach,Cox's Bazar,Sea Beach,418,6,High,8608
+Khulna,Suagazi Zamindar Bari,Cumilla,Historical Palace,308,1,Medium,2863
+Khulna,Jaflong,Sylhet,Picnic Spot,498,1,Medium,1940
+Dhaka,Maheshkhali Island,Cox's Bazar,Island,355,5,Medium,13336
+Barisal,Cholon Beel,Sirajganj,Picnic Spot,297,1,Medium,2551
+Chittagong,Mohamaya Eco Park,Chittagong,Picnic Spot,81,1,Low,871
+Cumilla,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,298,3,Medium,18494
+Khulna,Baliadi  Zamindar Bari,Gazipur,Historical Palace,257,1,Medium,1532
+Barisal,Mujibnagar Eco Park,Meherpur,Park,270,1,Low,2478
+Cumilla,Boga Lake,Bandarban,Hills,274,3,High,11234
+Rajshahi,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,67,1,Low,1968
+Barisal,Ghoraghat Fort,Dinajpur,Historical Palace,414,1,Medium,1958
+Rajshahi,Shahporan Dargah,Sylhet,Historical Palace,456,1,Low,2576
+Sylhet,Malnichhara Tea Garden,Sylhet,Picnic Spot,4.3,1,Low,660
+Rajshahi,Malnichhara Tea Garden,Sylhet,Picnic Spot,452,1,Low,1932
+Cumilla,Panchagarh Tea Estate,Panchagarh,Picnic Spot,548,1,Low,1775
+Chittagong,Mohamaya Eco Park,Chittagong,Picnic Spot,81,1,Low,1215
+Rangpur,Malnichhara Tea Garden,Sylhet,Picnic Spot,502,1,Medium,1812
+Barisal,Kaptai Lake,Rangamati,Park,297,1,Medium,2170
+Rajshahi,Suagazi Zamindar Bari,Cumilla,Historical Palace,362,1,Medium,2317
+Chittagong,Mujibnagar Eco Park,Meherpur,Park,486,1,Medium,2980
+Mymensingh,Ghoraghat Fort,Dinajpur,Historical Palace,236,1,Medium,2744
+Cumilla,Muktagacha ZamidarBari,Mymensingh,Historical Palace,233,1,Low,2813
+Rangpur,Sundarbans,Satkhira,Forest,453,1,Low,1842
+Mymensingh,Buddha Dhatu Jadi,Bandarban,Historical Palace,441,1,Low,1554
+Dhaka,Bhola Circuit House,Bhola,Picnic Spot,188,1,Low,1464
+Sylhet,Khoiyachora Jhorna,Chittagong,Waterfall,306,1,Medium,4517
+Mymensingh,Jadipai Waterfall,Bandarban,Waterfall,500,3,Medium,4359
+Dhaka,Bhawal National Park,Gazipur,Park,45,1,Low,1253
+Rangpur,Baliati Jamidar Bari,Manikganj,Historical Palace,254,1,Low,2615
+Barisal,Shilaidaha Kuthibari,Kushtia,Historical Palace,209,1,Low,1850
+Mymensingh,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,511,3,High,7627
+Cumilla,Fatra's Char,Patuakhali,Island,273,7,Medium,8992
+Chittagong,Nafakhum Waterfall,Bandarban,Waterfall,147,1,Low,4205
+Khulna,Sajek Valley,Rangamati,Hills,427,6,Medium,11770
+Chittagong,Shalban Vihara,Cumilla,Historical Palace,153,1,Low,1216
+Barisal,"Chhatak,lal pahar",Sunamganj,Picnic Spot,426,1,Medium,2950
+Rangpur,Cholon Beel,Sirajganj,Picnic Spot,200,1,Low,1852
+Sylhet,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,236,1,Medium,1675
+Barisal,Suagazi Zamindar Bari,Cumilla,Historical Palace,184,1,Low,1140
+Dhaka,Baniachong Zamindar Bari,Habiganj,Historical Palace,172,1,Low,1369
+Cumilla,Hardinge Bridge,Kushtia,Historical Palace,136,1,Low,1607
+Barisal,Shalban Vihara,Cumilla,Historical Palace,175,1,Low,1461
+Barisal,Chandranath Hill,Chittagong,Hills,206,6,High,6840
+Sylhet,Rangamati Hanging Bridge,Rangamati,Hills,415,4,Medium,9855
+Cumilla,Modhutila Eco Park,Sherpur,Park,300,1,Low,2412
+Chittagong,Cholon Beel,Sirajganj,Picnic Spot,424,1,Medium,1991
+Rangpur,Bhola Circuit House,Bhola,Picnic Spot,523,1,Low,2384
+Dhaka,Sitakunda Eco Park,Chittagong,Park,219,1,Medium,2989
+Chittagong,Mujibnagar Eco Park,Meherpur,Park,486,1,Low,2916
+Sylhet,Birishiri,Netrokona,Picnic Spot,169,1,Low,1951
+Rajshahi,Chimbuk View Point,Bandarban,Hills,448,6,High,5656
+Khulna,Lawachara National Park,Sylhet,Park,388,1,Medium,2077
+Rangpur,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,253,1,Medium,1810
+Mymensingh,Himchari National Park,Cox's Bazar,Park,520,1,Low,1500
+Sylhet,Kaptai Lake,Rangamati,Picnic Spot,416,1,Medium,2436
+Dhaka,Kuakata Beach,Barisal,Sea Beach,298,6,Medium,17512
+Khulna,Alutila Cave,Khagrachari,Hills,357,4,Medium,7449
+Khulna,Fatra's Char,Patuakhali,Island,216,3,Medium,11232
+Chittagong,Bichanakandi,Sylhet,Picnic Spot,400,1,Low,1919
+Khulna,Darjeeling Point,Panchagarh,Hills,635,6,High,6590
+Rajshahi,Cholon Beel,Sirajganj,Picnic Spot,84,1,Low,1304
+Cumilla,Dhakeshwari Temple,Dhaka,Historical Palace,97,1,Low,666
+Dhaka,Keokradong,Bandarban,Hills,386,5,High,6426
+Rajshahi,Chandranath Hill,Chittagong,Hills,461,4,Medium,6683
+Sylhet,Shangu River,Bandarban,Picnic Spot,498,1,Low,2401
+Rangpur,Sitakunda Eco Park,Chittagong,Park,512,1,Low,2926
+Khulna,Jatiyo Sriti Shoudho,Savar,Historical Palace,239,1,Low,2453
+Chittagong,Chhatak Haor,Sunamganj,Picnic Spot,382,1,Medium,2526
+Rajshahi,Birishiri,Netrokona,Picnic Spot,296,1,Medium,2811
+Mymensingh,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,511,6,High,9543
+Chittagong,Dhakeshwari Temple,Dhaka,Historical Palace,246,1,Medium,2657
+Rangpur,Dhanmondi Lake,Dhaka,Park,303,1,Low,2313
+Barisal,Paharpur Buddhist Monastery,Naogaon,Historical Palace,365,1,Medium,2242
+Chittagong,Mujibnagar Memorial,Meherpur,Historical Palace,497,1,Medium,2361
+Dhaka,Manikganj Zamindar Bari,Manikganj,Historical Palace,72,1,Low,359
+Dhaka,Mahasthangarh,Bogura,Historical Palace,203,1,Medium,2877
+Barisal,Shahporan Dargah,Sylhet,Historical Palace,391,1,Medium,1719
+Rajshahi,Buddha Dhatu Cati,Bandarban,Historical Palace,573,1,Low,2396
+Khulna,Nafakhum Waterfall,Bandarban,Waterfall,464,1,Medium,3163
+Cumilla,Chandranath Temple,Chittagong,Historical Palace,116,1,Low,1375
+Rangpur,Shilaidaha Kuthibari,Kushtia,Historical Palace,242,1,Low,2316
+Chittagong,Chandranath Temple,Chittagong,Historical Palace,44,1,Low,1728
+Rajshahi,Mawa Ghat,Munshiganj,Picnic Spot,270,1,Low,2786
+Rangpur,Tilagor Eco Park,Sylhet,Park,503,1,Low,1665
+Khulna,Sajek Valley,Rangamati,Hills,427,4,High,7379
+Khulna,Chhatak Haor,Sunamganj,Picnic Spot,460,1,Medium,1507
+Khulna,Kuakata Beach,Patuakhali,Sea Beach,220,6,Medium,9600
+Dhaka,Manikganj Zamindar Bari,Manikganj,Historical Palace,72,1,Low,478
+Rajshahi,Hardinge Bridge,Kushtia,Historical Palace,82,1,Low,1369
+Chittagong,Bangabandhu Safari Park,Gazipur,Park,299,1,Low,1591
+Barisal,Shoshi Lodge,Mymensingh,Historical Palace,289,1,Medium,2462
+Barisal,Bangladesh National Meusium,Dhaka,Historical Palace,172,1,Low,1381
+Chittagong,Mahadevpur Zamindar Bari,Naogaon,Historical Palace,341,1,Low,2482
+Rangpur,Bayazid Bostami Shrine,Chittagong,Historical Palace,542,1,Medium,2671
+Mymensingh,Kaptai National Park,Rangamati,Park,408,1,Medium,1768
+Mymensingh,Inani Beach,Cox's Bazar,Sea Beach,516,5,High,6970
+Khulna,Shahjalal Dargah,Sylhet,Historical Palace,440,1,Low,1775
+Barisal,Paharpur Buddhist Monastery,Naogaon,Historical Palace,365,1,Medium,2497
+Chittagong,Lalakhal,Sylhet,Picnic Spot,409,1,Low,2459
+Sylhet,Buddha Dhatu Cati,Bandarban,Historical Palace,432,1,Medium,2376
+Sylhet,Shalban Vihara,Cumilla,Historical Palace,223,1,Low,2229
+Khulna,Suagazi Zamindar Bari,Cumilla,Historical Palace,308,1,Low,1981
+Rangpur,Kantaji Temple,Dinajpur,Historical Palace,76,1,Low,1924
+Chittagong,Shoshi Lodge,Mymensingh,Historical Palace,361,1,Medium,2116
+Khulna,Nikli Haor,Kishoreganj,Picnic Spot,310,1,Low,2685
+Sylhet,Nikli Haor,Kishoreganj,Picnic Spot,197,1,Low,1998
+Mymensingh,Satchari National Park,Habiganj,Park,178,1,Low,1866
+Barisal,Ahsan Monjil,Dhaka,Historical Palace,149,1,Low,1321
+Mymensingh,Mohamaya Eco Park,Chittagong,Picnic Spot,304,1,Low,2181
+Chittagong,Baliadi  Zamindar Bari,Gazipur,Historical Palace,299,1,Medium,2928
+Cumilla,Aparajeyo Bangla,Dhaka,Historical Palace,108,1,Low,1897
+Rajshahi,Malnichhara Tea Garden,Sylhet,Picnic Spot,452,1,Medium,1602
+Rajshahi,Mujibnagar Smriti Complex,Meherpur,Historical Palace,158,1,Low,1038
+Khulna,Mawa Ghat,Munshiganj,Picnic Spot,171,1,Low,1104
+Rajshahi,Ahsan Monjil,Dhaka,Historical Palace,258,1,Medium,1506
+Rajshahi,Mujibnagar Smriti Complex,Meherpur,Historical Palace,158,1,Low,1151
+Rangpur,Chimbuk View Point,Bandarban,Hills,251,3,Medium,7081
+Rajshahi,Dinajpur Rajbari,Dinajpur,Historical Palace,197,1,Low,1715
+Khulna,Chandranath Temple,Chittagong,Historical Palace,310,1,Low,2815
+Barisal,Nafakhum Waterfall,Bandarban,Waterfall,250,3,Low,1637
+Khulna,Pachgaon Waterfall,Netrokona,Hills,408,4,High,5808
+Mymensingh,Sitakunda Eco Park,Chittagong,Park,330,1,Medium,1586
+Mymensingh,Nikli Haor,Kishoreganj,Picnic Spot,99,1,Low,403
+Rangpur,Baliadi  Zamindar Bari,Gazipur,Historical Palace,255,1,Low,2053
+Mymensingh,Ahsan Monjil,Dhaka,Historical Palace,124,1,Low,1111
+Barisal,Muktagacha ZamidarBari,Mymensingh,Historical Palace,304,1,Low,1644
+Rangpur,Lalakhal,Sylhet,Picnic Spot,546,1,Medium,1808
+Chittagong,Mujibnagar Memorial,Meherpur,Historical Palace,497,1,Low,2312
+Sylhet,Suagazi Zamindar Bari,Cumilla,Historical Palace,222,1,Low,1918
+Rajshahi,Baliadi  Zamindar Bari,Gazipur,Historical Palace,205,1,Low,2276
+Sylhet,Teliapara Managers Bunglow Nation Tea Estate,Habiganj,Picnic Spot,118,1,Low,1091
+Barisal,Fatra's Char,Patuakhali,Island,113,7,Medium,7559
+Mymensingh,Boga Lake,Bandarban,Hills,487,6,High,6841
+Mymensingh,Chimbuk View Point,Bandarban,Hills,450,3,Medium,8065
+Barisal,Tindur Waterfall,Bandarban,Waterfall,365,2,Medium,2476
+Sylhet,Foy's Lake,Chittagong,Park,359,1,Low,2810
+Khulna,Dhakeshwari Temple,Dhaka,Historical Palace,206,1,Low,2112
+Dhaka,Ramsagar National Park,Dinajpur,Park,338,1,Low,1973
+Rangpur,Madhupur National Park,Tangail,Forest,257,3,Low,3197
+Barisal,Jadukata River,Sunamganj,Picnic Spot,446,1,Low,2327
+Sylhet,Patenga Beach,Chittagong,Sea Beach,369,4,Medium,16815
+Cumilla,Sajek Valley,Rangamati,Hills,233,6,High,7562
+Rangpur,Maheshkhali Island,Cox's Bazar,Island,648,5,High,13507
+Mymensingh,Tanguar Haor,Sunamganj,Picnic Spot,172,1,Low,1162
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,637,3,Medium,2471
+Cumilla,Zaflong Tea Garden,Sylhet,Picnic Spot,267,1,Low,2829
+Barisal,"Chhatak,lal pahar",Sunamganj,Picnic Spot,426,1,Medium,2898
+Cumilla,Mohamaya Eco Park,Chittagong,Picnic Spot,90,1,Low,1022
+Mymensingh,Shahjalal Dargah,Sylhet,Historical Palace,194,1,Low,1597
+Dhaka,Paharpur Buddhist Monastery,Naogaon,Historical Palace,244,1,Low,1950
+Mymensingh,Shilaidaha Kuthibari,Kushtia,Historical Palace,257,1,Medium,2233
+Rangpur,Dulahazara Safari Park,Cox's Bazar,Park,651,1,Medium,2836
+Mymensingh,Mohamaya Eco Park,Chittagong,Picnic Spot,304,1,Low,2421
+Cumilla,Patenga Beach,Chittagong,Sea Beach,159,5,High,15452
+Cumilla,Baniachong Raj Bari,Habiganj,Historical Palace,147,1,Low,1208
+Rangpur,Kurigram Eco Park,Kurigram,Park,47,1,Low,1722
+Rajshahi,Sajek Valley,Rangamati,Hills,579,6,High,10037
+Dhaka,Jatiyo Sriti Shoudho,Savar,Historical Palace,36,1,Low,1491
+Barisal,Mohera Zamindar Bari,Tangail,Historical Palace,251,1,Medium,2579
+Mymensingh,Buddha Dhatu Jadi,Bandarban,Historical Palace,441,1,Medium,1602
+Dhaka,Mohera Zamindar Bari,Tangail,Historical Palace,89,1,Low,1380
+Cumilla,Satchari National Park,Habiganj,Park,110,1,Low,1536
+Khulna,Shahporan Dargah,Sylhet,Historical Palace,445,1,Medium,2717
+Mymensingh,Foy's Lake,Chittagong,Park,362,1,Low,2025
+Rangpur,Jadipai Waterfall,Bandarban,Waterfall,683,2,Low,2641
+Chittagong,Dulahazara Safari Park,Cox's Bazar,Park,98,1,Low,1558
+Barisal,Teliapara Managers Bunglow Nation Tea Estate,Habiganj,Picnic Spot,295,1,Medium,1858
+Rangpur,Sreemangal,Moulvibazar,Picnic Spot,439,1,Medium,2110
+Khulna,Dulahazara Safari Park,Cox's Bazar,Park,450,1,Medium,2023
+Barisal,Lawachara National Park,Sylhet,Park,349,1,Low,1943
+Rangpur,Muktagacha ZamidarBari,Mymensingh,Historical Palace,270,1,Low,1915
+Cumilla,Chalkmoshar Zamindar Bari,Naogaon,Historical Palace,364,1,Medium,2483
+Cumilla,Kaptai National Park,Rangamati,Park,445,1,Medium,2984
+Chittagong,Alutila Cave,Khagrachari,Hills,100,1,Medium,3779
+Chittagong,Shahporan Dargah,Sylhet,Historical Palace,367,1,Medium,1672
+Barisal,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,183,1,Low,1965
+Chittagong,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,536,1,Medium,2185
+Mymensingh,Shahjalal Dargah,Sylhet,Historical Palace,194,1,Low,1881
+Rajshahi,Fatra's Char,Patuakhali,Island,431,5,Medium,14660
+Khulna,Jadukata River,Sunamganj,Picnic Spot,484,1,Medium,1669
+Khulna,Lalbagh Fort,Dhaka,Historical Palace,206,1,Medium,1673
+Chittagong,Lalakhal,Sylhet,Picnic Spot,409,1,Medium,1632
+Cumilla,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,73.4,1,Low,1252
+Dhaka,Fatra's Char,Patuakhali,Island,294,7,Medium,8158
+Rajshahi,Kuakata Beach,Barisal,Sea Beach,436,6,High,6337
+Chittagong,Fatra's Char,Patuakhali,Island,339,5,High,15249
+Dhaka,Rangamati Hanging Bridge,Rangamati,Hills,312,4,High,8818
+Rajshahi,Baliati Jamidar Bari,Manikganj,Historical Palace,205,1,Low,2990
+Khulna,Baniachong Zamindar Bari,Habiganj,Historical Palace,376,1,Medium,1905
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,637,2,Medium,4863
+Cumilla,Jaflong,Sylhet,Picnic Spot,269,1,Low,2060
+Sylhet,Chandranath Temple,Chittagong,Historical Palace,322,1,Low,2080
+Khulna,Sundarbans,Satkhira,Forest,110,1,Low,4697
+Rangpur,Suagazi Zamindar Bari,Cumilla,Historical Palace,412,1,Medium,1711
+Sylhet,Bhawal National Park,Gazipur,Park,231,1,Medium,2322
+Dhaka,Bhola Circuit House,Bhola,Picnic Spot,188,1,Low,1646
+Sylhet,Ahsan Monjil,Dhaka,Historical Palace,239,1,Medium,2678
+Rangpur,Buddha Dhatu Cati,Bandarban,Historical Palace,622,1,Low,1734
+Rangpur,Inani Beach,Cox's Bazar,Sea Beach,708,7,High,9870
+Mymensingh,Maheshkhali Island,Cox's Bazar,Island,466,5,Medium,8647
+Chittagong,Aparajeyo Bangla,Dhaka,Historical Palace,245,1,Low,2695
+Khulna,Alutila Cave,Khagrachari,Hills,357,3,Medium,9460
+Rajshahi,Maheshkhali Island,Cox's Bazar,Island,598,5,Medium,19172
+Rangpur,Rangamati Hanging Bridge,Rangamati,Hills,605,3,Medium,8246
+Cumilla,Munshibari Zamindar Bari,Cumilla,Historical Palace,377,1,Low,1784
+Chittagong,Mohamaya Eco Park,Chittagong,Picnic Spot,81,1,Low,1722
+Cumilla,Dhakeshwari Temple,Dhaka,Historical Palace,97,1,Low,542
+Cumilla,Zinda Park,Narayanganj,Picnic Spot,126,1,Low,1892
+Barisal,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,388,1,Low,1968
+Mymensingh,Lalbagh Fort,Dhaka,Historical Palace,124,1,Low,1609
+Cumilla,Jadukata River,Sunamganj,Picnic Spot,255,1,Medium,1856
+Sylhet,Bangladesh National Zoo,Dhaka,Park,243,1,Low,2608
+Dhaka,Baliati  Zamindar Bari,Manikganj,Historical Palace,72,1,Low,1880
+Barisal,Chandradinga,Netrokona,Hills,370,3,High,7171
+Chittagong,Chimbuk View Point,Bandarban,Hills,88,3,Medium,3310
+Cumilla,Alutila Cave,Khagrachari,Hills,163,3,High,3230
+Mymensingh,Sitakunda Eco Park,Chittagong,Park,330,1,Low,1833
+Dhaka,Pachgaon Waterfall,Netrokona,Hills,195,1,Medium,4688
+Rangpur,Kaptai Lake,Rangamati,Park,602,1,Medium,2383
+Barisal,Saint Martin's Island,Cox's Bazar,Island,467,7,High,16218
+Cumilla,Inani Beach,Cox's Bazar,Sea Beach,308,3,High,17515
+Sylhet,Mujibnagar Smriti Complex,Meherpur,Historical Palace,493,1,Medium,2098
+Rajshahi,Bhola Circuit House,Bhola,Picnic Spot,368,1,Low,1904
+Khulna,Bangladesh National Meusium,Dhaka,Historical Palace,207,1,Medium,1608
+Rangpur,Sundarbans,Satkhira,Forest,453,2,Medium,3854
+Chittagong,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,566,1,Low,1758
+Barisal,Mahasthangarh,Bogura,Historical Palace,378,1,Low,2943
+Chittagong,Keokradong,Bandarban,Hills,134,3,Medium,4760
+Mymensingh,Ghoraghat Fort,Dinajpur,Historical Palace,236,1,Medium,1571
+Sylhet,Suagazi Zamindar Bari,Cumilla,Historical Palace,222,1,Low,2833
+Sylhet,Chor Kukri Mukri,Bhola,Island,535,6,Medium,18630
+Dhaka,Bangabandhu Bridge,Tangail,Historical Palace,110,1,Low,1639
+Dhaka,Jadipai Waterfall,Bandarban,Waterfall,390,1,Medium,3188
+Rangpur,Lalakhal,Sylhet,Picnic Spot,546,1,Medium,2881
+Chittagong,Teknaf Beach,Teknaf,Sea Beach,214,7,High,10083
+Dhaka,Tangail Zamindar Bari,Tangail,Historical Palace,88,1,Low,959
+Barisal,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,369,1,Low,1928
+Dhaka,Chhatak Haor,Sunamganj,Picnic Spot,257,1,Medium,2466
+Cumilla,Niladri Lake,Sunamganj,Picnic Spot,284,1,Low,2340
+Khulna,Satchari National Park,Habiganj,Park,339,1,Low,2739
+Mymensingh,Bayazid Bostami Shrine,Chittagong,Historical Palace,360,1,Low,2557
+Barisal,Khoiyachora Jhorna,Chittagong,Waterfall,191,2,Low,3734
+Khulna,Tindur Waterfall,Bandarban,Waterfall,467,1,Medium,4302
+Rangpur,Ahsan Monjil,Dhaka,Historical Palace,307,1,Low,2979
+Dhaka,Kantaji Temple,Dinajpur,Historical Palace,350,1,Medium,2916
+Khulna,Hatirjheel,Dhaka,Picnic Spot,212,1,Medium,2951
+Chittagong,Birishiri,Netrokona,Picnic Spot,418,1,Medium,1725
+Cumilla,Chimbuk View Point,Bandarban,Hills,180,3,Medium,2343
+Cumilla,Aparajeyo Bangla,Dhaka,Historical Palace,381,1,Medium,2299
+Mymensingh,Suagazi Zamindar Bari,Cumilla,Historical Palace,117,1,Low,1941
+Sylhet,Modhutila Eco Park,Sherpur,Park,353,1,Medium,2134
+Cumilla,Balihar Rajbari,Naogaon,Historical Palace,358,1,Low,2751
+Cumilla,Chimbuk View Point,Bandarban,Hills,180,3,High,4260
+Khulna,Suagazi Zamindar Bari,Cumilla,Historical Palace,308,1,Low,2152
+Rangpur,Aparajeyo Bangla,Dhaka,Historical Palace,299,1,Low,2970
+Rangpur,Chandranath Temple,Chittagong,Historical Palace,512,1,Medium,2334
+Mymensingh,Hardinge Bridge,Kushtia,Historical Palace,219,1,Medium,2863
+Chittagong,Shilaidaha Kuthibari,Kushtia,Historical Palace,428,1,Low,1708
+Khulna,Dhanmondi Lake,Dhaka,Park,209,1,Medium,2932
+Khulna,Malnichhara Tea Garden,Sylhet,Picnic Spot,443,1,Medium,2087
+Barisal,Nafakhum Waterfall,Bandarban,Waterfall,250,1,Medium,2052
+Dhaka,Kuakata Beach,Patuakhali,Sea Beach,298,6,High,11839
+Mymensingh,Kuakata Beach,Patuakhali,Sea Beach,408,7,High,17559
+Khulna,Shaheed Suhrawardy Udyan,Dhaka,Park,206,1,Low,2573
+Cumilla,Ghoraghat Fort,Dinajpur,Historical Palace,343,1,Low,2453
+Mymensingh,Patenga Beach,Chittagong,Sea Beach,373,5,High,16541
+Cumilla,Kuakata Beach,Barisal,Sea Beach,374,6,High,10740
+Chittagong,Niladri Lake,Sunamganj,Picnic Spot,444,1,Low,2971
+Barisal,Malnichhara Tea Garden,Sylhet,Picnic Spot,405,1,Low,2305
+Mymensingh,Shangu River,Bandarban,Picnic Spot,502,1,Low,2495
+Rangpur,Bangladesh National Zoo,Dhaka,Park,299,1,Low,2428
+Mymensingh,Chandraghona Paper Mills,Rangamati,Historical Palace,403,1,Low,2396
+Barisal,Shalban Vihara,Cumilla,Historical Palace,175,1,Low,1075
+Khulna,Bangabandhu Bridge,Tangail,Historical Palace,302,1,Low,2816
+Mymensingh,Bichanakandi,Sylhet,Picnic Spot,234,1,Medium,2962
+Khulna,Takerghat Limestone,Sunamganj,Picnic Spot,505,1,Medium,2782
+Mymensingh,Shitolaksha River,Narayanganj,Picnic Spot,120,1,Low,1960
+Chittagong,Mahadevpur Zamindar Bari,Naogaon,Historical Palace,341,1,Low,2475
+Mymensingh,Ghoraghat Fort,Dinajpur,Historical Palace,236,1,Medium,2287
+Khulna,Teknaf Beach,Teknaf,Sea Beach,558,3,Medium,18696
+Khulna,Tilagor Eco Park,Sylhet,Park,444,1,Low,1801
+Dhaka,Dulahazara Safari Park,Cox's Bazar,Park,358,1,Low,1734
+Cumilla,Tangail Zamindar Bari,Tangail,Historical Palace,27,1,Low,1426
+Dhaka,Zinda Park,Narayanganj,Picnic Spot,20,1,Low,718
+Rangpur,Lalon Shah Mazar,Kushtia,Historical Palace,256,1,Medium,2325
+Chittagong,Keokradong,Bandarban,Hills,134,1,Medium,2156
+Barisal,Lalon Shah Mazar,Kushtia,Historical Palace,209,1,Medium,1594
+Khulna,Lalakhal,Sylhet,Picnic Spot,487,1,Medium,1826
+Sylhet,Ratargul Swamp Forest,Sylhet,Forest,53,1,Low,596
+Sylhet,Tindur Waterfall,Bandarban,Waterfall,480,3,Medium,3086
+Dhaka,Kuakata Beach,Barisal,Sea Beach,298,5,High,7897
+Sylhet,Mawa Ghat,Munshiganj,Picnic Spot,273,1,Medium,2673
+Cumilla,Teknaf Beach,Teknaf,Sea Beach,363,5,High,19852
+Chittagong,Mohamaya Eco Park,Chittagong,Picnic Spot,81,1,Low,765
+Barisal,Madhabkunda Waterfall,Moulvibazar,Waterfall,420,3,Medium,4560
+Mymensingh,Kaptai National Park,Rangamati,Park,408,1,Low,2573
+Khulna,Ahsan Monjil,Dhaka,Historical Palace,204,1,Low,1795
+Mymensingh,Madhabkunda Waterfall,Moulvibazar,Waterfall,281,1,Low,3650
+Dhaka,Suagazi Zamindar Bari,Cumilla,Historical Palace,119,1,Low,1668
+Rangpur,Satchari National Park,Habiganj,Park,398,1,Medium,1527
+Rangpur,Nafakhum Waterfall,Bandarban,Waterfall,558,3,Low,2675
+Barisal,Bhola Circuit House,Bhola,Picnic Spot,49,1,Low,887
+Khulna,Darjeeling Point,Panchagarh,Hills,635,3,High,5799
+Khulna,Chandranath Temple,Chittagong,Historical Palace,310,1,Medium,2699
+Khulna,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,388,1,Low,2930
+Cumilla,Bangabandhu Safari Park,Gazipur,Park,151,1,Low,1329
+Chittagong,Teliapara Tea Garden,Habiganj,Picnic Spot,255,1,Medium,2242
+Khulna,Shalban Vihara,Cumilla,Historical Palace,296,1,Medium,1572
+Rangpur,Baniachong Raj Bari,Habiganj,Historical Palace,435,1,Low,2130
+Chittagong,Shalban Vihara,Cumilla,Historical Palace,153,1,Low,1160
+Dhaka,Cholon Beel,Sirajganj,Picnic Spot,172,1,Low,1741
+Cumilla,Ratargul Swamp Forest,Sylhet,Forest,232,3,Medium,2655
+Cumilla,Ratargul Swamp Forest,Sylhet,Forest,232,3,Medium,4160
+Mymensingh,Jadukata River,Sunamganj,Picnic Spot,232,1,Low,1774
+Chittagong,Shangu River,Bandarban,Picnic Spot,140,1,Low,1745
+Sylhet,Chandranath Hill,Chittagong,Hills,321,3,High,8974
+Dhaka,Mohamaya Eco Park,Chittagong,Picnic Spot,193,1,Low,1757
+Sylhet,Bayazid Bostami Shrine,Chittagong,Historical Palace,352,1,Low,1523
+Dhaka,Nafakhum Waterfall,Bandarban,Waterfall,350,2,Medium,3796
+Mymensingh,Ghoraghat Fort,Dinajpur,Historical Palace,236,1,Medium,2000
+Chittagong,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,221,1,Medium,2971
+Barisal,Hardinge Bridge,Kushtia,Historical Palace,241,1,Medium,1823
+Cumilla,Chor Kukri Mukri,Bhola,Island,390,7,Medium,7813
+Khulna,Sreemangal,Moulvibazar,Picnic Spot,380,1,Medium,2735
+Dhaka,Shoshi Lodge,Mymensingh,Historical Palace,115,1,Low,1196
+Sylhet,Jadipai Waterfall,Bandarban,Waterfall,493,3,Medium,4276
+Dhaka,Basher Kella,Dinajpur,Historical Palace,333,1,Medium,2962
+Cumilla,Muktagacha ZamidarBari,Mymensingh,Historical Palace,233,1,Medium,2836
+Rajshahi,Patenga Beach,Chittagong,Sea Beach,505,5,Medium,10602
+Rajshahi,Ramsagar National Park,Dinajpur,Park,201,1,Medium,2122
+Khulna,Shoshi Lodge,Mymensingh,Historical Palace,328,1,Low,1865
+Chittagong,Bangladesh National Meusium,Dhaka,Historical Palace,245,1,Medium,2397
+Rajshahi,Shaheed Suhrawardy Udyan,Dhaka,Park,255,1,Medium,2737
+Chittagong,Zaflong Tea Garden,Sylhet,Picnic Spot,418,1,Low,1956
+Rajshahi,Mohamaya Eco Park,Chittagong,Picnic Spot,436,1,Medium,2922
+Mymensingh,Kaptai National Park,Rangamati,Park,408,1,Medium,2973
+Rangpur,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,303,1,Medium,2534
+Chittagong,Kantaji Temple,Dinajpur,Historical Palace,602,1,Low,2341
+Rajshahi,Madhabkunda Waterfall,Moulvibazar,Waterfall,468,2,Medium,2192
+Chittagong,Hatirjheel,Dhaka,Picnic Spot,250,1,Medium,2805
+Chittagong,Teknaf Beach,Teknaf,Sea Beach,214,6,High,5763
+Sylhet,Bhawal National Park,Gazipur,Park,231,1,Medium,1563
+Cumilla,Shitolaksha Waterfront Resort,Narayanganj,Picnic Spot,109,1,Low,1613
+Rangpur,Paharpur Buddhist Monastery,Naogaon,Historical Palace,112,1,Low,1677
+Cumilla,Munshibari Zamindar Bari,Cumilla,Historical Palace,377,1,Medium,2193
+Dhaka,Bichanakandi,Sylhet,Picnic Spot,275,1,Medium,1786
+Chittagong,Alutila Cave,Khagrachari,Hills,100,1,High,4312
+Cumilla,Birishiri,Netrokona,Picnic Spot,270,1,Low,2539
+Cumilla,Fatra's Char,Patuakhali,Island,273,3,High,17784
+Khulna,Bangabandhu Safari Park,Gazipur,Park,260,1,Medium,1541
+Chittagong,Lawachara National Park,Sylhet,Park,309,1,Low,1851
+Rangpur,Teliapara Managers Bunglow Nation Tea Estate,Habiganj,Picnic Spot,393,1,Low,2129
+Mymensingh,Himchari National Park,Cox's Bazar,Park,520,1,Low,2586
+Dhaka,Kuakata Beach,Patuakhali,Sea Beach,298,7,Medium,12046
+Rangpur,Chor Kukri Mukri,Bhola,Island,607,5,Medium,10909
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,637,3,Medium,2566
+Rajshahi,Ratargul Swamp Forest,Sylhet,Forest,470,1,Low,1579
+Barisal,Malnichhara Tea Garden,Sylhet,Picnic Spot,405,1,Medium,2698
+Sylhet,Tilagor Eco Park,Sylhet,Park,8,1,Low,1564
+Mymensingh,Foy's Lake,Chittagong,Park,362,1,Medium,2460
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,287,1,Low,2790
+Chittagong,Amiakhum Waterfall,Bandarban,Waterfall,143,3,Medium,4746
+Barisal,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,439,1,Low,1683
+Chittagong,Chor Kukri Mukri,Bhola,Island,420,5,Medium,13674
+Chittagong,Muktagacha ZamidarBari,Mymensingh,Historical Palace,381,1,Low,2273
+Dhaka,Bangladesh National Meusium,Dhaka,Historical Palace,12,1,Low,1465
+Barisal,Mahasthangarh,Bogura,Historical Palace,378,1,Low,2576
+Dhaka,Shilaidaha Kuthibari,Kushtia,Historical Palace,204,1,Low,2023
+Chittagong,Muktagacha ZamidarBari,Mymensingh,Historical Palace,381,1,Low,2331
+Rangpur,Bangabandhu Safari Park,Gazipur,Park,295,1,Medium,2726
+Dhaka,Nikli Haor,Kishoreganj,Picnic Spot,107,1,Low,1458
+Sylhet,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,410,1,Low,2330
+Cumilla,Tila Chhoho,Netrokona,Hills,62,2,High,4512
+Rajshahi,Aparajeyo Bangla,Dhaka,Historical Palace,249,1,Medium,2600
+Dhaka,Foy's Lake,Chittagong,Park,252,1,Low,1586
+Mymensingh,Paharpur Buddhist Monastery,Naogaon,Historical Palace,241,1,Low,1869
+Dhaka,Khoiyachora Jhorna,Chittagong,Waterfall,202,3,Medium,1662
+Dhaka,Bangladesh National Meusium,Dhaka,Historical Palace,12,1,Low,431
+Rangpur,Kaptai Lake,Rangamati,Park,602,1,Medium,1551
+Chittagong,Lalbagh Fort,Dhaka,Historical Palace,244,1,Medium,2992
+Mymensingh,Sajek Valley,Rangamati,Hills,447,6,Medium,8893
+Cumilla,Jadipai Waterfall,Bandarban,Waterfall,287,3,Medium,3878
+Mymensingh,Bhola Circuit House,Bhola,Picnic Spot,313,1,Medium,2210
+Rangpur,Niladri Lake,Sunamganj,Picnic Spot,572,1,Medium,2505
+Rangpur,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,253,1,Low,2934
+Cumilla,Mujibnagar Eco Park,Meherpur,Park,39,1,Low,1025
+Sylhet,Keokradong,Bandarban,Hills,489,5,Medium,11187
+Khulna,Patenga Beach,Chittagong,Sea Beach,353,3,High,18122
+Rajshahi,Modhutila Eco Park,Sherpur,Park,274,1,Medium,2310
+Rangpur,Madhupur National Park,Tangail,Forest,257,1,Medium,4967
+Rangpur,Mahasthangarh,Bogura,Historical Palace,95,1,Low,1587
+Chittagong,Teliapara Tea Garden,Habiganj,Picnic Spot,255,1,Low,2276
+Cumilla,Niladri Lake,Sunamganj,Picnic Spot,284,1,Low,1717
+Dhaka,Bayazid Bostami Shrine,Chittagong,Historical Palace,250,1,Low,2539
+Barisal,Darjeeling Point,Panchagarh,Hills,680,6,High,10287
+Sylhet,Alutila Cave,Khagrachari,Hills,369,5,High,11050
+Barisal,Mohera Zamindar Bari,Tangail,Historical Palace,251,1,Medium,1842
+Khulna,Mawa Ghat,Munshiganj,Picnic Spot,171,1,Low,1498
+Khulna,Rangamati Hanging Bridge,Rangamati,Hills,403,5,High,10861
+Khulna,Sreemangal,Moulvibazar,Picnic Spot,380,1,Low,1882
+Khulna,Dulahazara Safari Park,Cox's Bazar,Park,450,1,Medium,2554
+Chittagong,Ghoraghat Fort,Dinajpur,Historical Palace,491,1,Low,2948
+Chittagong,Bhawal National Park,Gazipur,Park,286,1,Medium,2368
+Chittagong,Mawa Ghat,Munshiganj,Picnic Spot,277,1,Medium,2788
+Sylhet,Shahporan Dargah,Sylhet,Historical Palace,10,1,Low,1631
+Khulna,Rangamati Hanging Bridge,Rangamati,Hills,403,5,High,9563
+Cumilla,Amiakhum Waterfall,Bandarban,Waterfall,273,1,Medium,2009
+Mymensingh,Shalban Vihara,Cumilla,Historical Palace,217,1,Low,2687
+Cumilla,Mujibnagar Smriti Complex,Meherpur,Historical Palace,54,1,Low,397
+Dhaka,Jaflong,Sylhet,Picnic Spot,295,1,Low,1955
+Dhaka,Mohera Zamindar Bari,Tangail,Historical Palace,89,1,Low,1801
+Sylhet,Mujibnagar Smriti Complex,Meherpur,Historical Palace,493,1,Medium,2043
+Sylhet,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,410,1,Medium,2855
+Dhaka,Patenga Beach,Chittagong,Sea Beach,262,7,High,14089
+Rajshahi,Sajek Valley,Rangamati,Hills,579,5,High,7278
+Rangpur,Khoiyachora Jhorna,Chittagong,Waterfall,495,2,Medium,2081
+Dhaka,Satchari National Park,Habiganj,Park,136,1,Low,1166
+Mymensingh,Shitolaksha River,Narayanganj,Picnic Spot,120,1,Low,1050
+Barisal,Bhola Circuit House,Bhola,Picnic Spot,49,1,Low,1915
+Barisal,Hatirjheel,Dhaka,Picnic Spot,157,1,Low,1986
+Rajshahi,Bangabandhu Bridge,Tangail,Historical Palace,567,1,Low,2066
+Sylhet,Foy's Lake,Chittagong,Park,359,1,Medium,2739
+Rangpur,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,303,1,Low,2270
+Rangpur,Dhanmondi Lake,Dhaka,Park,303,1,Medium,2050
+Khulna,Teknaf Beach,Teknaf,Sea Beach,558,4,High,5995
+Rangpur,Chimbuk View Point,Bandarban,Hills,251,4,High,9963
+Dhaka,Bhawal National Park,Gazipur,Park,45,1,Low,1328
+Rajshahi,Maheshkhali Island,Cox's Bazar,Island,598,4,Medium,5840
+Cumilla,Bhawal National Park,Gazipur,Park,138,1,Low,1781
+Rajshahi,Baliadi  Zamindar Bari,Gazipur,Historical Palace,205,1,Low,2197
+Chittagong,Dhanmondi Lake,Dhaka,Park,248,1,Medium,2257
+Rangpur,Ghoraghat Fort,Dinajpur,Historical Palace,65,1,Low,674
+Cumilla,Mujibnagar Eco Park,Meherpur,Park,39,1,Low,1911
+Dhaka,Basher Kella,Dinajpur,Historical Palace,333,1,Medium,1845
+Mymensingh,Maheshkhali Island,Cox's Bazar,Island,466,3,Medium,9982
+Sylhet,Jatiyo Sriti Shoudho,Savar,Historical Palace,256,1,Medium,2790
+Cumilla,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,278,1,Medium,1832
+Barisal,Kurigram Eco Park,Kurigram,Park,513,1,Medium,2820
+Rajshahi,Paharpur Buddhist Monastery,Naogaon,Historical Palace,99,1,Low,914
+Sylhet,Mohera Jamindar Bari,Tangail,Historical Palace,291,1,Medium,1879
+Chittagong,Teknaf Beach,Teknaf,Sea Beach,214,4,Medium,19570
+Rangpur,Dhanmondi Lake,Dhaka,Park,303,1,Low,1786
+Sylhet,Baniachong Raj Bari,Habiganj,Historical Palace,76,1,Low,1517
+Chittagong,Buddha Dhatu Jadi,Bandarban,Historical Palace,70,1,Low,1453
+Mymensingh,Hardinge Bridge,Kushtia,Historical Palace,219,1,Low,2555
+Cumilla,Malnichhara Tea Garden,Sylhet,Picnic Spot,214,1,Medium,2420
+Rajshahi,Ramsagar National Park,Dinajpur,Park,201,1,Medium,1671
+Rajshahi,Teknaf Beach,Teknaf,Sea Beach,709,5,Medium,14802
+Chittagong,Aparajeyo Bangla,Dhaka,Historical Palace,245,1,Low,1888
+Rajshahi,Darjeeling Point,Panchagarh,Hills,329,3,High,8068
+Barisal,Darjeeling Point,Panchagarh,Hills,680,5,High,8854
+Chittagong,Mawa Ghat,Munshiganj,Picnic Spot,277,1,Medium,1761
+Mymensingh,Lalbagh Fort,Dhaka,Historical Palace,124,1,Low,1807
+Cumilla,Balihar Rajbari,Naogaon,Historical Palace,358,1,Low,1664
+Cumilla,Mohamaya Eco Park,Chittagong,Picnic Spot,90,1,Low,1216
+Rangpur,Mahasthangarh,Bogura,Historical Palace,95,1,Low,1396
+Dhaka,Suagazi Zamindar Bari,Cumilla,Historical Palace,119,1,Low,1108
+Sylhet,Panam City,Narayanganj,Historical Palace,237,1,Medium,2916
+Mymensingh,Jadipai Waterfall,Bandarban,Waterfall,500,3,Low,4648
+Barisal,Ahsan Monjil,Dhaka,Historical Palace,149,1,Low,1971
+Rangpur,Sitakunda Eco Park,Chittagong,Park,512,1,Medium,1848
+Rangpur,Mujibnagar Eco Park,Meherpur,Park,280,1,Low,1699
+Khulna,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,388,1,Medium,2193
+Rangpur,Cholon Beel,Sirajganj,Picnic Spot,200,1,Low,1644
+Cumilla,Kurigram Eco Park,Kurigram,Park,519,1,Low,2342
+Cumilla,Lalon Shah Mazar,Kushtia,Historical Palace,280,1,Medium,2425
+Cumilla,Shoshi Lodge,Mymensingh,Historical Palace,219,1,Low,2359
+Sylhet,Inani Beach,Cox's Bazar,Sea Beach,519,5,Medium,6866
+Rangpur,Bodhiratna Buddhist Temple,Cox's Bazar,Historical Palace,678,1,Low,1593
+Dhaka,Bangabandhu Safari Park,Gazipur,Park,48,1,Low,1263
+Chittagong,Shoshi Lodge,Mymensingh,Historical Palace,361,1,Medium,2830
+Chittagong,Chimbuk Hill,Bandarban,Hills,87,2,Medium,4532
+Rajshahi,Jatiyo Sriti Shoudho,Savar,Historical Palace,229,1,Low,2116
+Mymensingh,Jadipai Waterfall,Bandarban,Waterfall,500,3,Low,1991
+Sylhet,Himchari National Park,Cox's Bazar,Park,510,1,Low,2268
+Mymensingh,Bangabandhu Bridge,Tangail,Historical Palace,107,1,Low,1849
+Chittagong,Teliapara Tea Garden,Habiganj,Picnic Spot,255,1,Medium,2662
+Chittagong,Takerghat Limestone,Sunamganj,Picnic Spot,344,1,Low,2120
+Dhaka,Lawachara National Park,Sylhet,Park,193,1,Low,1031
+Khulna,Sajek Valley,Rangamati,Hills,427,4,Medium,10309
+Rajshahi,Bangladesh National Meusium,Dhaka,Historical Palace,245,1,Medium,2027
+Sylhet,Muktagacha ZamidarBari,Mymensingh,Historical Palace,210,1,Medium,2622
+Rajshahi,Kantaji Temple,Dinajpur,Historical Palace,213,1,Low,2088
+Dhaka,Nikli Haor,Kishoreganj,Picnic Spot,107,1,Low,1466
+Khulna,Teknaf Beach,Teknaf,Sea Beach,558,4,High,17059
+Rajshahi,Baliadi  Zamindar Bari,Gazipur,Historical Palace,205,1,Medium,2505
+Barisal,Nilachal,Bandarban,Hills,311,6,Medium,8467
+Sylhet,Inani Beach,Cox's Bazar,Sea Beach,519,4,High,12687
+Mymensingh,Fatra's Char,Patuakhali,Island,404,5,High,11358
+Mymensingh,Alutila Cave,Khagrachari,Hills,379,4,Medium,10610
+Chittagong,Satchari National Park,Habiganj,Park,261,1,Low,2136
+Chittagong,Dulahazara Safari Park,Cox's Bazar,Park,98,1,Low,389
+Chittagong,Mahasthangarh,Bogura,Historical Palace,456,1,Low,1901
+Dhaka,Baliadi  Zamindar Bari,Gazipur,Historical Palace,48,1,Low,1769
+Cumilla,Bhola Circuit House,Bhola,Picnic Spot,690,1,Low,1575
+Khulna,Foy's Lake,Chittagong,Park,343,1,Low,2230
+Mymensingh,Shitolaksha River,Narayanganj,Picnic Spot,120,1,Low,1756
+Rajshahi,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,643,4,High,12424
+Rajshahi,Birishiri,Netrokona,Picnic Spot,296,1,Medium,2006
+Mymensingh,Lalakhal,Sylhet,Picnic Spot,240,1,Low,2517
+Barisal,Mohera Jamindar Bari,Tangail,Historical Palace,264,1,Medium,2743
+Cumilla,Suagazi Zamindar Bari,Cumilla,Historical Palace,15,1,Low,485
+Barisal,Jatiyo Sriti Shoudho,Savar,Historical Palace,201,1,Low,2795
+Chittagong,Jatiyo Sriti Shoudho,Savar,Historical Palace,278,1,Medium,2236
+Dhaka,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,40,1,Low,1653
+Cumilla,Baliadi  Zamindar Bari,Gazipur,Historical Palace,151,1,Low,1114
+Barisal,Chimbuk Hill,Bandarban,Hills,327,6,High,6818
+Chittagong,Sundarbans,Satkhira,Forest,547,1,Low,3861
+Cumilla,Dhanmondi Lake,Dhaka,Park,562,1,Medium,1580
+Rangpur,Lawachara National Park,Sylhet,Park,447,1,Medium,1628
+Dhaka,Kuakata Beach,Barisal,Sea Beach,298,4,Medium,11324
+Chittagong,Lawachara National Park,Sylhet,Park,309,1,Low,1664
+Barisal,Bhawal National Park,Gazipur,Park,209,1,Medium,1985
+Cumilla,Chimbuk Hill,Bandarban,Hills,236,4,Medium,8774
+Mymensingh,Saint Martin's Island,Cox's Bazar,Island,585,5,Medium,10693
+Barisal,Shahjalal Dargah,Sylhet,Historical Palace,385,1,Medium,2282
+Dhaka,Nafakhum Waterfall,Bandarban,Waterfall,350,3,Medium,3078
+Dhaka,Baliati  Zamindar Bari,Manikganj,Historical Palace,72,1,Low,996
+Sylhet,Mohera Jamindar Bari,Tangail,Historical Palace,291,1,Low,1754
+Cumilla,Bhola Circuit House,Bhola,Picnic Spot,140,1,Low,1693
+Sylhet,Khoiyachora Jhorna,Chittagong,Waterfall,306,1,Low,4669
+Khulna,Shilaidaha Kuthibari,Kushtia,Historical Palace,167,1,Low,1142
+Sylhet,Nilachal,Bandarban,Hills,429,5,Medium,11417
+Dhaka,Basher Kella,Dinajpur,Historical Palace,333,1,Low,2117
+Dhaka,Bangladesh National Meusium,Dhaka,Historical Palace,12,1,Low,1729
+Khulna,Jadukata River,Sunamganj,Picnic Spot,484,1,Low,2992
+Mymensingh,Shoshi Lodge,Mymensingh,Historical Palace,3,1,Low,1669
+Chittagong,Bangabandhu Bridge,Tangail,Historical Palace,362,1,Medium,1571
+Khulna,Maheshkhali Island,Cox's Bazar,Island,452,4,High,17342
+Khulna,Buddha Dhatu Jadi,Bandarban,Historical Palace,423,1,Low,1789
+Rajshahi,Maheshkhali Island,Cox's Bazar,Island,598,3,High,9107
+Khulna,Lawachara National Park,Sylhet,Park,388,1,Medium,2769
+Barisal,Madhupur National Park,Tangail,Forest,310,1,Medium,4632
+Chittagong,Takerghat Limestone,Sunamganj,Picnic Spot,344,1,Low,2048
+Dhaka,Mohamaya Eco Park,Chittagong,Picnic Spot,193,1,Low,1354
+Sylhet,Ratargul Swamp Forest,Sylhet,Forest,53,1,Low,1147
+Sylhet,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,236,1,Low,2172
+Cumilla,Lalakhal,Sylhet,Picnic Spot,258,1,Medium,1843
+Dhaka,Shaheed Suhrawardy Udyan,Dhaka,Park,12,1,Low,1366
+Rajshahi,Meghla Tourist Complex,Bandarban,Hills,565,5,Medium,11891
+Mymensingh,Shahporan Dargah,Sylhet,Historical Palace,204,1,Medium,2918
+Cumilla,Bangabandhu Safari Park,Gazipur,Park,151,1,Low,1662
+Mymensingh,Foy's Lake,Chittagong,Park,362,1,Low,2500
+Sylhet,Fatra's Char,Patuakhali,Island,513,7,Medium,7974
+Dhaka,Baliadi  Zamindar Bari,Gazipur,Historical Palace,48,1,Low,1695
+Chittagong,Foy's Lake,Chittagong,Park,10,1,Low,819
+Dhaka,Mujibnagar Smriti Complex,Meherpur,Historical Palace,273,1,Medium,1559
+Dhaka,Shahporan Dargah,Sylhet,Historical Palace,242,1,Medium,2116
+Khulna,Bhawal National Park,Gazipur,Park,247,1,Low,2863
+Cumilla,Inani Beach,Cox's Bazar,Sea Beach,308,5,High,17838
+Rajshahi,Chor Kukri Mukri,Bhola,Island,453,6,High,12508
+Rangpur,"Chhatak,lal pahar Haor",Sunamganj,Picnic Spot,524,1,Medium,2498
+Cumilla,Dhakeshwari Temple,Dhaka,Historical Palace,226,1,Medium,2980
+Sylhet,Boga Lake,Bandarban,Hills,480,3,Medium,8403
+Sylhet,Boga Lake,Bandarban,Hills,480,3,High,6233
+Chittagong,Meghla Tourist Complex,Bandarban,Hills,70,1,Medium,4867
+Rajshahi,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,643,7,High,16932
+Cumilla,Ramsagar National Park,Dinajpur,Park,442,1,Medium,1939
+Rangpur,Nikli Haor,Kishoreganj,Picnic Spot,361,1,Medium,2676
+Rangpur,Narikelbaria Jamidar Bari,Jhenaidah,Historical Palace,303,1,Medium,2183
+Rangpur,Shahporan Dargah,Sylhet,Historical Palace,505,1,Low,2967
+Chittagong,Chimbuk Hill,Bandarban,Hills,87,3,High,3628
+Cumilla,Kurigram Eco Park,Kurigram,Park,442,1,Low,1727
+Chittagong,Baliadi  Zamindar Bari,Gazipur,Historical Palace,299,1,Medium,1584
+Chittagong,Dhakeshwari Temple,Dhaka,Historical Palace,246,1,Low,2258
+Cumilla,Tilagor Eco Park,Sylhet,Park,215,1,Medium,2050
+Dhaka,Maheshkhali Island,Cox's Bazar,Island,355,3,Medium,19291
+Rangpur,Shoshi Lodge,Mymensingh,Historical Palace,285,1,Medium,2373
+Mymensingh,Bayazid Bostami Shrine,Chittagong,Historical Palace,360,1,Low,2712
+Chittagong,Tindur Waterfall,Bandarban,Waterfall,123,3,Medium,3926
+Mymensingh,Bangladesh National Zoo,Dhaka,Park,117,1,Low,1348
+Dhaka,Modhutila Eco Park,Sherpur,Park,196,1,Low,1252
+Cumilla,Rajbari Palace,Rajbari,Historical Palace,147,1,Low,1418
+Sylhet,Madhabkunda Waterfall,Moulvibazar,Waterfall,73,1,Low,964
+Cumilla,Saint Martin's Island,Cox's Bazar,Island,391,7,High,8217
+Cumilla,Aparajeyo Bangla,Dhaka,Historical Palace,381,1,Medium,1562
+Khulna,Patenga Beach,Chittagong,Sea Beach,353,7,Medium,14433
+Chittagong,Paharpur Buddhist Monastery,Naogaon,Historical Palace,496,1,Medium,2254
+Chittagong,Chandranath Hill,Chittagong,Hills,73,3,Medium,2396
+Chittagong,Patenga Beach,Chittagong,Sea Beach,24,7,High,13600
+Cumilla,Buddha Dhatu Jadi,Bandarban,Historical Palace,295,1,Medium,1757
+Chittagong,Lawachara National Park,Sylhet,Park,309,1,Medium,1565
+Mymensingh,Madhupur National Park,Tangail,Forest,44,1,Low,934
+Barisal,Muktagacha ZamidarBari,Mymensingh,Historical Palace,304,1,Medium,2930
+Rajshahi,Khoiyachora Jhorna,Chittagong,Waterfall,446,1,Medium,4770
+Chittagong,Sajek Valley,Rangamati,Hills,170,1,High,3718
+Mymensingh,Bangabandhu Safari Park,Gazipur,Park,76,1,Low,426
+Khulna,Hardinge Bridge,Kushtia,Historical Palace,176,1,Low,1094
+Khulna,Niladri Lake,Sunamganj,Picnic Spot,505,1,Low,2025
+Dhaka,Ghoraghat Fort,Dinajpur,Historical Palace,239,1,Medium,2869
+Chittagong,Sreemangal,Moulvibazar,Picnic Spot,301,1,Medium,2617
+Cumilla,Keokradong,Bandarban,Hills,35,1,Medium,2377
+Barisal,Nilachal,Bandarban,Hills,311,5,Medium,6106
+Chittagong,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,566,1,Low,2842
+Chittagong,Alutila Cave,Khagrachari,Hills,100,2,Medium,2011
+Barisal,Modhutila Eco Park,Sherpur,Park,375,1,Medium,2869
+Rangpur,Chimbuk Hill,Bandarban,Hills,632,5,High,10806
+Rajshahi,Pachgaon Waterfall,Netrokona,Hills,325,5,High,8985
+Barisal,Kaptai Lake,Rangamati,Picnic Spot,301,1,Medium,2988
+Dhaka,Chimbuk Hill,Bandarban,Hills,339,3,High,11961
+Barisal,Shitolaksha Waterfront Resort,Narayanganj,Picnic Spot,198,1,Low,1108
+Khulna,Bayazid Bostami Shrine,Chittagong,Historical Palace,341,1,Medium,1560
+Khulna,Lalakhal,Sylhet,Picnic Spot,487,1,Low,2543
+Rajshahi,Chandranath Hill,Chittagong,Hills,461,6,Medium,10364
+Chittagong,Kaptai National Park,Rangamati,Park,49,1,Low,357
+Chittagong,Shahporan Dargah,Sylhet,Historical Palace,367,1,Low,2311
+Barisal,Baniachong Raj Bari,Habiganj,Historical Palace,338,1,Medium,2584
+Dhaka,Boga Lake,Bandarban,Hills,376,6,Medium,6213
+Rangpur,Shitolaksha Waterfront Resort,Narayanganj,Picnic Spot,304,1,Low,2760
+Mymensingh,Foy's Lake,Chittagong,Park,362,1,Medium,2858
+Cumilla,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,73.4,1,Low,304
+Sylhet,Shaheed Suhrawardy Udyan,Dhaka,Park,246,1,Medium,1992
+Sylhet,Chandranath Hill,Chittagong,Hills,321,6,High,5591
+Cumilla,Kantaji Temple,Dinajpur,Historical Palace,454,1,Medium,2712
+Cumilla,Baliati Jamidar Bari,Manikganj,Historical Palace,165,1,Low,1771
+Mymensingh,Gorai Riverbank,Tangail,Picnic Spot,248,1,Medium,2509
+Sylhet,Sajek Valley,Rangamati,Hills,439,4,Medium,8482
+Rajshahi,Saint Martin's Island,Cox's Bazar,Island,737,6,Medium,16053
+Khulna,Muktagacha ZamidarBari,Mymensingh,Historical Palace,342,1,Medium,2947
+Rajshahi,Chimbuk View Point,Bandarban,Hills,448,6,High,6560
+Rajshahi,Ramsagar National Park,Dinajpur,Park,201,1,Medium,1554
+Rajshahi,Boga Lake,Bandarban,Hills,620,6,Medium,7080
+Cumilla,Dinajpur Rajbari,Dinajpur,Historical Palace,437,1,Low,2032
+Chittagong,Rangamati Hanging Bridge,Rangamati,Hills,69,1,High,4809
+Khulna,Sreemangal,Moulvibazar,Picnic Spot,380,1,Medium,2221
+Cumilla,Keokradong,Bandarban,Hills,283,3,Medium,11457
+Khulna,Birishiri,Netrokona,Picnic Spot,379,1,Low,1568
+Rangpur,Sreemangal,Moulvibazar,Picnic Spot,439,1,Medium,1797
+Rajshahi,Dhakeshwari Temple,Dhaka,Historical Palace,257,1,Medium,1559
+Dhaka,Bangladesh National Meusium,Dhaka,Historical Palace,12,1,Low,1986
+Cumilla,Pachgaon Waterfall,Netrokona,Hills,241,6,Medium,9529
+Rangpur,Tindur Waterfall,Bandarban,Waterfall,670,2,Low,3738
+Khulna,Meghla Tourist Complex,Bandarban,Hills,414,4,High,5722
+Cumilla,Shahjalal Dargah,Sylhet,Historical Palace,211,1,Low,1900
+Cumilla,Teliapara Tea Garden,Habiganj,Picnic Spot,295,1,Low,1673
+Dhaka,Suagazi Zamindar Bari,Cumilla,Historical Palace,119,1,Low,1925
+Barisal,Boga Lake,Bandarban,Hills,365,3,Medium,5523
+Cumilla,Tilagor Eco Park,Sylhet,Park,215,1,Medium,2177
+Dhaka,Gunahar Saheb Bari,Naogaon,Historical Palace,219,1,Medium,1849
+Rangpur,Ratargul Swamp Forest,Sylhet,Forest,520,1,Medium,4928
+Sylhet,Ratargul Swamp Forest,Sylhet,Forest,53,1,Low,1056
+Cumilla,Fatra's Char,Patuakhali,Island,272,6,Medium,8984
+Sylhet,Meghla Tourist Complex,Bandarban,Hills,429,5,High,7526
+Rangpur,Shoshi Lodge,Mymensingh,Historical Palace,285,1,Medium,1588
+Chittagong,Jadipai Waterfall,Bandarban,Waterfall,138,3,Low,4517
+Dhaka,Baniachong Zamindar Bari,Habiganj,Historical Palace,172,1,Low,1790
+Rangpur,Himchari National Park,Cox's Bazar,Park,703,1,Low,2998
+Rangpur,Maheshkhali Island,Cox's Bazar,Island,648,3,Medium,8893
+Rajshahi,Teliapara Managers Bunglow Nation Tea Estate,Habiganj,Picnic Spot,343,1,Low,2967
+Mymensingh,Shitolaksha River,Narayanganj,Picnic Spot,120,1,Low,1178
+Rangpur,Mahasthangarh,Bogura,Historical Palace,95,1,Low,1835
+Rangpur,Balihar Rajbari,Naogaon,Historical Palace,167,1,Low,1087
+Mymensingh,Hardinge Bridge,Kushtia,Historical Palace,219,1,Medium,2613
+Sylhet,Pachgaon Waterfall,Netrokona,Hills,170,3,High,4465
+Sylhet,Ratargul Swamp Forest,Sylhet,Forest,53,1,Low,729
+Rangpur,Shalban Vihara,Cumilla,Historical Palace,399,1,Medium,1567
+Sylhet,Dinajpur Rajbari,Dinajpur,Historical Palace,536,1,Low,1547
+Cumilla,Takerghat Limestone,Sunamganj,Picnic Spot,31,1,Low,1067
+Chittagong,Shalban Vihara,Cumilla,Historical Palace,153,1,Low,1668
+Rangpur,Ahsan Monjil,Dhaka,Historical Palace,307,1,Medium,2777
+Rajshahi,Mohera Zamindar Bari,Tangail,Historical Palace,181,1,Low,1428
+Chittagong,Bangabandhu Safari Park,Gazipur,Park,299,1,Low,1746
+Barisal,Teliapara Managers Bunglow Nation Tea Estate,Habiganj,Picnic Spot,295,1,Low,2348
+Khulna,Mawa Ghat,Munshiganj,Picnic Spot,171,1,Low,1399
+Chittagong,Lalakhal,Sylhet,Picnic Spot,409,1,Medium,1653
+Chittagong,Chandranath Hill,Chittagong,Hills,73,2,Medium,4454
+Cumilla,Malnichhara Tea Garden,Sylhet,Picnic Spot,121,1,Low,1711
+Chittagong,Jatiyo Sriti Shoudho,Savar,Historical Palace,278,1,Low,2569
+Mymensingh,Chandranath Temple,Chittagong,Historical Palace,329,1,Medium,2495
+Rangpur,Chandradinga,Netrokona,Hills,375,5,High,6478
+Sylhet,Mujibnagar Eco Park,Meherpur,Park,478,1,Low,2515
+Mymensingh,Hardinge Bridge,Kushtia,Historical Palace,219,1,Medium,1855
+Mymensingh,Chor Kukri Mukri,Bhola,Island,410,6,High,5758
+Dhaka,Baliadi  Zamindar Bari,Gazipur,Historical Palace,48,1,Low,1551
+Rangpur,Lalakhal,Sylhet,Picnic Spot,546,1,Low,1692
+Rangpur,Ratargul Swamp Forest,Sylhet,Forest,520,1,Medium,3133
+Rangpur,Hardinge Bridge,Kushtia,Historical Palace,226,1,Medium,2512
+Khulna,Nilachal,Bandarban,Hills,414,6,Medium,10134
+Sylhet,Dulahazara Safari Park,Cox's Bazar,Park,458,1,Medium,2522
+Khulna,Himchari National Park,Cox's Bazar,Park,502,1,Medium,2379
+Cumilla,Manikganj Zamindar Bari,Manikganj,Historical Palace,139,1,Low,1136
+Barisal,Chandranath Temple,Chittagong,Historical Palace,207,1,Low,2360
+Mymensingh,Tindur Waterfall,Bandarban,Waterfall,486,3,Medium,3881
+Mymensingh,Shibganj Mango Orchard,Chapainawabganj,Picnic Spot,311,1,Low,2571
+Mymensingh,Patenga Beach,Chittagong,Sea Beach,373,5,High,19124
+Rajshahi,Sajek Valley,Rangamati,Hills,579,6,Medium,10571
+Chittagong,Mohamaya Eco Park,Chittagong,Picnic Spot,81,1,Low,389
+Mymensingh,Shangu River,Bandarban,Picnic Spot,502,1,Low,2198
+Sylhet,Hatirjheel,Dhaka,Picnic Spot,247,1,Low,1784
+Mymensingh,Dulahazara Safari Park,Cox's Bazar,Park,469,1,Low,2964
+Sylhet,Madhabkunda Waterfall,Moulvibazar,Waterfall,73,1,Low,631
+Sylhet,Hatirjheel,Dhaka,Picnic Spot,247,1,Medium,1655
+Rangpur,Sreemangal,Moulvibazar,Picnic Spot,439,1,Low,2926
+Chittagong,Fatra's Char,Patuakhali,Island,339,4,High,12008
+Chittagong,Patenga Beach,Chittagong,Sea Beach,24,3,Medium,16925
+Khulna,Fatra's Char,Patuakhali,Island,216,3,High,18892
+Rajshahi,Maheshkhali Island,Cox's Bazar,Island,598,7,Medium,16188
+Mymensingh,Mohera Zamindar Bari,Tangail,Historical Palace,117,1,Low,1194
+Cumilla,Cholon Beel,Sirajganj,Picnic Spot,275,1,Medium,1817
+Cumilla,Kurigram Eco Park,Kurigram,Park,442,1,Low,2670
+Cumilla,Bhola Circuit House,Bhola,Picnic Spot,690,1,Low,1831
+Rangpur,Lalon Shah Mazar,Kushtia,Historical Palace,256,1,Medium,2145
+Mymensingh,Kuakata Beach,Barisal,Sea Beach,408,4,Medium,7338
+Chittagong,Rangamati Hanging Bridge,Rangamati,Hills,69,1,High,4970
+Sylhet,Himchari National Park,Cox's Bazar,Park,510,1,Low,2884
+Chittagong,Kurigram Eco Park,Kurigram,Park,590,1,Medium,1586
+Barisal,Nilachal,Bandarban,Hills,311,4,Medium,11061
+Rajshahi,Khoiyachora Jhorna,Chittagong,Waterfall,446,2,Medium,2632
+Rajshahi,Dinajpur Rajbari,Dinajpur,Historical Palace,197,1,Low,1415
+Barisal,Boga Lake,Bandarban,Hills,365,6,High,7511
+Rangpur,Shoshi Lodge,Mymensingh,Historical Palace,285,1,Medium,1959
+Rangpur,Shahjalal Dargah,Sylhet,Historical Palace,499,1,Medium,2991
+Cumilla,Pirganj Jamidar Bari,Thakurgaon,Historical Palace,406,1,Medium,2445
+Rajshahi,Shangu River,Bandarban,Picnic Spot,634,1,Medium,1984
+Rajshahi,Jadipai Waterfall,Bandarban,Waterfall,633,1,Medium,2577
+Mymensingh,Ahsan Monjil,Dhaka,Historical Palace,124,1,Low,1449
+Rangpur,Sundarbans,Satkhira,Forest,453,1,Low,4104
+Sylhet,Patenga Beach,Chittagong,Sea Beach,369,7,Medium,7627
+Rajshahi,Chimbuk Hill,Bandarban,Hills,582,5,High,11310
+Cumilla,Panchagarh Tea Estate,Panchagarh,Picnic Spot,548,1,Low,2608
+Barisal,Bichanakandi,Sylhet,Picnic Spot,423,1,Low,2964
+Rajshahi,Sundarbans,Satkhira,Forest,309,3,Medium,2513
+Rangpur,Chandranath Hill,Chittagong,Hills,508,4,High,6550
+Khulna,Alutila Cave,Khagrachari,Hills,357,6,High,11457
+Dhaka,Panam City,Narayanganj,Historical Palace,40,1,Low,1874
+Rangpur,Paharpur Buddhist Monastery,Naogaon,Historical Palace,112,1,Low,1256
+Dhaka,Shoshi Lodge,Mymensingh,Historical Palace,115,1,Low,1171
+Dhaka,Himchari National Park,Cox's Bazar,Park,410,1,Low,2851
+Cumilla,Fatra's Char,Patuakhali,Island,272,5,High,8277
+Cumilla,Kuakata Beach,Patuakhali,Sea Beach,374,7,Medium,10637
+Rajshahi,Jaflong,Sylhet,Picnic Spot,508,1,Medium,1702
+Cumilla,Bangabandhu Safari Park,Gazipur,Park,151,1,Low,1488
+Cumilla,Fultola Zamindar Bari,Jhenaidah,Historical Palace,188,1,Low,1929
+Barisal,Zaflong Tea Garden,Sylhet,Picnic Spot,441,1,Low,2234
+Rajshahi,Tanguar Haor,Sunamganj,Picnic Spot,515,1,Low,1921
+Rajshahi,Maheshkhali Island,Cox's Bazar,Island,598,7,Medium,6101
+Sylhet,Tilagor Eco Park,Sylhet,Park,8,1,Low,1187
+Cumilla,Nilachal,Bandarban,Hills,220,5,High,9415
+Mymensingh,Muktagacha ZamidarBari,Mymensingh,Historical Palace,23,1,Low,847
+Mymensingh,Chor Kukri Mukri,Bhola,Island,410,6,High,18899
+Rangpur,Alutila Cave,Khagrachari,Hills,558,6,High,9253
+Cumilla,Dhakeshwari Temple,Dhaka,Historical Palace,226,1,Low,2894
+Dhaka,Niladri Lake,Sunamganj,Picnic Spot,310,1,Medium,2966
+Barisal,Shahporan Dargah,Sylhet,Historical Palace,391,1,Medium,1705
+Rajshahi,Fatra's Char,Patuakhali,Island,431,6,Medium,11564
+Khulna,Lalakhal,Sylhet,Picnic Spot,487,1,Low,2897
+Dhaka,Panam City,Narayanganj,Historical Palace,40,1,Low,690
+Rangpur,Tanguar Haor,Sunamganj,Picnic Spot,565,1,Low,1599
+Cumilla,Madhupur National Park,Tangail,Forest,242,3,Low,4444
+Barisal,Bhawal National Park,Gazipur,Park,209,1,Low,2006
+Chittagong,Manikganj Zamindar Bari,Manikganj,Historical Palace,313,1,Low,2150
+Rajshahi,Ghoraghat Fort,Dinajpur,Historical Palace,159,1,Low,1456
+Cumilla,Tanguar Haor,Sunamganj,Picnic Spot,277,1,Medium,2094
+Cumilla,Tindur Waterfall,Bandarban,Waterfall,274,3,Medium,3529
+Rajshahi,Shangu River,Bandarban,Picnic Spot,634,1,Low,1713
+Rajshahi,Chor Kukri Mukri,Bhola,Island,453,5,Medium,5862
+Sylhet,Chandradinga,Netrokona,Hills,169,1,High,3992
+Dhaka,Binoy Bhushon Sahar Bari,Rajbari,Historical Palace,138,1,Low,1713
+Sylhet,Chandraghona Paper Mills,Rangamati,Historical Palace,395,1,Low,2424
+Mymensingh,Niladri Lake,Sunamganj,Picnic Spot,179,1,Low,1218
+Sylhet,Khoiyachora Jhorna,Chittagong,Waterfall,306,2,Medium,3093
+Khulna,Lawachara National Park,Sylhet,Park,388,1,Low,1564
+Barisal,Shangu River,Bandarban,Picnic Spot,379,1,Low,2087
+Sylhet,Mahasthangarh,Bogura,Historical Palace,406,1,Low,1503
+Mymensingh,Sitakunda Eco Park,Chittagong,Park,330,1,Low,2606
+Sylhet,Chor Kukri Mukri,Bhola,Island,535,4,Medium,15918
+Mymensingh,Meghla Tourist Complex,Bandarban,Hills,432,5,High,9505
+Rajshahi,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,165,1,Low,1821
+Sylhet,Nafakhum Waterfall,Bandarban,Waterfall,360,3,Medium,4053
+Cumilla,Foy's Lake,Chittagong,Park,149,1,Low,1649
+Cumilla,Jaflong,Sylhet,Picnic Spot,269,1,Medium,2863
+Khulna,Shoshi Lodge,Mymensingh,Historical Palace,328,1,Low,1590
+Cumilla,Manikganj Zamindar Bari,Manikganj,Historical Palace,139,1,Low,1593
+Cumilla,Ahsan Monjil,Dhaka,Historical Palace,96,1,Low,1322
+Cumilla,Shahporan Dargah,Sylhet,Historical Palace,216,1,Low,2150
+Rajshahi,Shahporan Dargah,Sylhet,Historical Palace,456,1,Low,1555
+Barisal,Paharpur Buddhist Monastery,Naogaon,Historical Palace,365,1,Medium,1675
+Mymensingh,Panam City,Narayanganj,Historical Palace,147,1,Low,1953
+Cumilla,Tindur Waterfall,Bandarban,Waterfall,274,1,Medium,1814
+Sylhet,Jaflong,Sylhet,Picnic Spot,50,1,Low,1342
+Chittagong,Suagazi Zamindar Bari,Cumilla,Historical Palace,139,1,Low,1415
+Khulna,Satchari National Park,Habiganj,Park,339,1,Low,1830
+Barisal,Tindur Waterfall,Bandarban,Waterfall,365,1,Low,3600
+Dhaka,Binoy Bhushon Sahar Bari,Rajbari,Historical Palace,138,1,Low,1599
+Chittagong,Zinda Park,Narayanganj,Picnic Spot,268,1,Low,2110
+Cumilla,Dhanmondi Lake,Dhaka,Park,562,1,Low,2027
+Mymensingh,Teknaf Beach,Teknaf,Sea Beach,576,3,Medium,10895
+Dhaka,Foy's Lake,Chittagong,Park,252,1,Low,2246
+Rangpur,Suagazi Zamindar Bari,Cumilla,Historical Palace,412,1,Medium,1596
+Rajshahi,Foy's Lake,Chittagong,Park,495,1,Medium,2857
+Rangpur,Himchari National Park,Cox's Bazar,Park,703,1,Low,1871
+Rajshahi,Teknaf Beach,Teknaf,Sea Beach,709,3,High,15261
+Barisal,Tindur Waterfall,Bandarban,Waterfall,365,1,Medium,2489
+Cumilla,Basher Kella,Dinajpur,Historical Palace,543,1,Medium,2040
+Chittagong,Sreemangal,Moulvibazar,Picnic Spot,301,1,Medium,1630
+Rangpur,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,329,1,Medium,1596
+Rajshahi,Shoshi Lodge,Mymensingh,Historical Palace,236,1,Medium,2456
+Rangpur,Kurigram Eco Park,Kurigram,Park,47,1,Low,806
+Rajshahi,Baliati Jamidar Bari,Manikganj,Historical Palace,205,1,Low,1775
+Sylhet,Jadipai Waterfall,Bandarban,Waterfall,493,2,Low,1656
+Cumilla,Chandranath Hill,Chittagong,Hills,115,1,Medium,3447
+Dhaka,Sonargaon Folk Art Museum,Narayanganj,Historical Palace,40,1,Low,395
+Barisal,Nikli Haor,Kishoreganj,Picnic Spot,272,1,Medium,2071
+Khulna,Bangladesh National Meusium,Dhaka,Historical Palace,207,1,Medium,2797
+Sylhet,Shoshi Lodge,Mymensingh,Historical Palace,281,1,Medium,1614
+Rangpur,Tindur Waterfall,Bandarban,Waterfall,670,1,Medium,4074
+Barisal,Inani Beach,Cox's Bazar,Sea Beach,404,7,Medium,9894
+Cumilla,Keokradong,Bandarban,Hills,283,5,Medium,10467
+Cumilla,Muktagacha ZamidarBari,Mymensingh,Historical Palace,233,1,Medium,2077
+Rajshahi,Khoiyachora Jhorna,Chittagong,Waterfall,446,1,Medium,1731
+Chittagong,Muktagacha ZamidarBari,Mymensingh,Historical Palace,381,1,Medium,1888
+Dhaka,Shaheed Suhrawardy Udyan,Dhaka,Park,12,1,Low,1133
+Chittagong,Bangladesh National Meusium,Dhaka,Historical Palace,245,1,Medium,2687
+Mymensingh,Mawa Ghat,Munshiganj,Picnic Spot,164,1,Low,1667
+Barisal,Chor Kukri Mukri,Bhola,Island,127,3,High,16459
+Dhaka,Chhatak Haor,Sunamganj,Picnic Spot,257,1,Low,2427
+Khulna,Lalbagh Fort,Dhaka,Historical Palace,206,1,Low,1539
+Chittagong,Cholon Beel,Sirajganj,Picnic Spot,424,1,Low,1550
+Khulna,Cox's Bazar Sea Beach,Cox's Bazar,Sea Beach,492,3,High,11809
+Chittagong,Baniachong Zamindar Bari,Habiganj,Historical Palace,297,1,Medium,2715
+Khulna,Lalon Shah Mazar,Kushtia,Historical Palace,157,1,Low,1513
+Mymensingh,Kuakata Beach,Barisal,Sea Beach,408,4,Medium,18937
+Rajshahi,Jadipai Waterfall,Bandarban,Waterfall,633,1,Medium,3118
+Dhaka,Paharpur Buddhist Monastery,Naogaon,Historical Palace,244,1,Low,1639
+Khulna,Shahjalal Dargah,Sylhet,Historical Palace,440,1,Medium,2853
+Mymensingh,Malnichhara Tea Garden,Sylhet,Picnic Spot,198,1,Low,1314
+Mymensingh,Patenga Beach,Chittagong,Sea Beach,373,6,Medium,17960
+Dhaka,Kurigram Eco Park,Kurigram,Park,338,1,Low,2823
+Cumilla,Shitolaksha River,Narayanganj,Picnic Spot,327,1,Medium,1550
+Barisal,Muktagacha ZamidarBari,Mymensingh,Historical Palace,304,1,Low,2368
+Rajshahi,Lawachara National Park,Sylhet,Park,397,1,Low,2814
+Barisal,Aparajeyo Bangla,Dhaka,Historical Palace,179,1,Low,1736
+Dhaka,Jaflong,Sylhet,Picnic Spot,295,1,Medium,2311
+Rangpur,Nafakhum Waterfall,Bandarban,Waterfall,558,1,Medium,3404
+Mymensingh,Bangladesh National Zoo,Dhaka,Park,117,1,Low,1387
+Sylhet,Inani Beach,Cox's Bazar,Sea Beach,519,5,High,11746
+Sylhet,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,487,1,Low,2501
+Dhaka,Baliati  Zamindar Bari,Manikganj,Historical Palace,72,1,Low,1629
+Rajshahi,Zaflong Tea Garden,Sylhet,Picnic Spot,506,1,Medium,1842
+Sylhet,Jatiyo Sriti Shoudho,Savar,Historical Palace,256,1,Low,2588
+Barisal,Mahasthangarh,Bogura,Historical Palace,378,1,Medium,2525
+Mymensingh,Kurigram Eco Park,Kurigram,Park,335,1,Low,2014
+Khulna,Ahsan Monjil,Dhaka,Historical Palace,204,1,Medium,1682
+Cumilla,Nilachal,Bandarban,Hills,220,4,Medium,7401
+Dhaka,Swapnapuri Amusement Park,Dinajpur,Picnic Spot,284,1,Low,2988
+Sylhet,Mawa Ghat,Munshiganj,Picnic Spot,273,1,Low,2457
+Mymensingh,Muktagacha ZamidarBari,Mymensingh,Historical Palace,23,1,Low,332
+Khulna,Patenga Beach,Chittagong,Sea Beach,353,7,Medium,17166
+Rangpur,Mahasthangarh,Bogura,Historical Palace,95,1,Low,1764
+Sylhet,Bayazid Bostami Shrine,Chittagong,Historical Palace,352,1,Medium,2028
+Cumilla,Madhabkunda Waterfall,Moulvibazar,Waterfall,230,2,Low,3049
+Sylhet,Bhola Circuit House,Bhola,Picnic Spot,363,1,Low,2279
+Khulna,Maheshkhali Island,Cox's Bazar,Island,452,5,High,16856
+Chittagong,Fatra's Char,Patuakhali,Island,339,3,High,15054

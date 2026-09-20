@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ details.name }}</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: url("{{ details.bg_image }}") no-repeat center center/cover;
+            color: #fff;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.7);
+            padding: 20px;
+            border-radius: 10px;
+            max-width: 600px;
+            margin: 50px auto;
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 20px;
+        }
+        p {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>{{ details.name }}</h1>
+        <p>City: {{ details.city }}</p>
+        <p>Type: {{ details.type }}</p>
+        <p>Distance: {{ details.distance }}</p>
+        <p>Single Cost: {{ details.single_cost }}</p>
+        <p>Couple Cost: {{ details.couple_cost }}</p>
+    </div>
+</body>
+</html>
