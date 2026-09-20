@@ -7,8 +7,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 
-ffmpeg -i TourRecomBD.1.1.mp4 -vf "cropdetect=24:16:0" -f null - 2>&1 | grep crop
-https://github.com/user-attachments/assets/efc0e5f6-3d72-4aa1-9283-bd31d7583690
+https://github.com/user-attachments/assets/93fefce3-beae-43dc-89ca-acb06249f5a5
 
 ## Table of Contents
 - [Overview](#overview)
@@ -28,12 +27,12 @@ Tourism Spot Recommender BD pairs a small Flask app with a `RandomForestClassifi
 
 ## Features
 
-- 🧭 **Simple preference form** — starting city, budget tier, destination type, target distance, trip length, and budget in BDT
-- 🤖 **ML-powered matching** — a `RandomForestClassifier` scores every destination in the dataset and returns your top 3 matches
-- 💰 **Single & couple cost estimates** — every recommendation shows both a single-traveler cost and an estimated couple cost
-- 📍 **Destination detail pages** — drill into any recommended spot for a page with a background image matched to its type
-- 🚫 **Graceful no-match handling** — if nothing scores above a 1% confidence threshold, the app says so instead of forcing a bad recommendation
-- 🎨 **Animated frontend** — a rotating image slideshow behind the preference form and a looping video background on the results page
+- **Simple preference form** — starting city, budget tier, destination type, target distance, trip length, and budget in BDT
+- **ML-powered matching** — a `RandomForestClassifier` scores every destination in the dataset and returns your top 3 matches
+- **Single & couple cost estimates** — every recommendation shows both a single-traveler cost and an estimated couple cost
+- **Destination detail pages** — drill into any recommended spot for a page with a background image matched to its type
+- **Graceful no-match handling** — if nothing scores above a 1% confidence threshold, the app says so instead of forcing a bad recommendation
+- **Animated frontend** — a rotating image slideshow behind the preference form and a looping video background on the results page
 
 ## Demo
 
