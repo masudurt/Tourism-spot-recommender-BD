@@ -14,7 +14,6 @@ https://github.com/user-attachments/assets/93fefce3-beae-43dc-89ca-acb06249f5a5
 - [Features](#features)
 - [Demo](#demo)
 - [How It Works](#how-it-works)
-- [The Recommendation Model](#the-recommendation-model)
 - [Dataset](#dataset)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
@@ -61,22 +60,6 @@ flowchart TD
     K --> L["GET /destination/name"]
     L --> M[Looks up the destination and a matching background image]
     M --> N[Renders destination.html]
-```
-
-## The Recommendation Model
-
-`train_model.py` builds the model that `app.py` loads at startup:
-
-```mermaid
-flowchart LR
-    A[Destination dataset CSV] --> B[Downcast numeric columns, drop NA rows]
-    B --> C[One-hot encode From, Budget, and Type]
-    C --> D[Fill missing required feature columns with 0]
-    D --> E[X = feature columns, y = Destination]
-    E --> F["80/20 train-test split, random_state=42"]
-    F --> G["RandomForestClassifier — 50 trees, max_depth 10"]
-    G --> H[Save model to tour_recommendation_model.pkl]
-    G --> I[Save feature list to feature_names.pkl]
 ```
 
 **Features fed to the model:**
