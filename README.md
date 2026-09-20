@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/cc279e43-6f74-412b-8f59-f4c17c1281da
 # 🗺️ Tourism Spot Recommender BD
 
 **A Flask web app that recommends Bangladeshi travel destinations using a scikit-learn model trained on trip preferences — starting city, budget, distance, duration, and type of place.**
@@ -9,9 +7,7 @@ https://github.com/user-attachments/assets/cc279e43-6f74-412b-8f59-f4c17c1281da
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 
-
-https://github.com/user-attachments/assets/9a453218-707f-4548-b262-2313c0f44ece
-
+https://github.com/user-attachments/assets/efc0e5f6-3d72-4aa1-9283-bd31d7583690
 
 ## Table of Contents
 - [Overview](#overview)
