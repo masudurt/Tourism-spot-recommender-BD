@@ -6,7 +6,6 @@
 ![Flask](https://img.shields.io/badge/Flask-web%20app-000000?logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
-![License](https://img.shields.io/badge/license-unspecified-lightgrey)
 
 ## Table of Contents
 - [Overview](#overview)
