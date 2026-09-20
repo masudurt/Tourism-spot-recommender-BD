@@ -7,6 +7,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-RandomForest-F7931E?logo=scikitlearn&logoColor=white)
 ![Status](https://img.shields.io/badge/status-prototype-yellow)
 
+ffmpeg -i TourRecomBD.1.1.mp4 -vf "cropdetect=24:16:0" -f null - 2>&1 | grep crop
 https://github.com/user-attachments/assets/efc0e5f6-3d72-4aa1-9283-bd31d7583690
 
 ## Table of Contents
